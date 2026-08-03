@@ -1,0 +1,426 @@
+<!DOCTYPE html><html lang="fr"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Expires" content="0">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Coach">
+<meta name="theme-color" content="#0F1D26">
+<title>Coach — J-33 Gérardmer</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;400;600&family=IBM+Plex+Sans:wght@400;600&family=IBM+Plex+Sans+Condensed:wght@600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<style>
+:root{
+  --encre:#0F1D26; --fond:#132531; --carte:#18303E; --trait:#24455A;
+  --papier:#E4EDF1; --gris:#8AA5B4; --faible:#5D7C8D;
+  --lac:#2FA898; --ambre:#D9973B; --rouille:#C0563C;
+  --mono:'IBM Plex Mono',ui-monospace,monospace;
+  --cond:'IBM Plex Sans Condensed','Arial Narrow',sans-serif;
+  --sans:'IBM Plex Sans',system-ui,sans-serif;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--encre);color:var(--papier);font-family:var(--sans);
+  font-size:15px;line-height:1.55;-webkit-font-smoothing:antialiased;
+  padding:0 0 64px}
+.wrap{max-width:760px;margin:0 auto;padding:0 20px}
+.eyebrow{font-family:var(--mono);font-size:11px;letter-spacing:.18em;
+  text-transform:uppercase;color:var(--gris)}
+h2{font-family:var(--cond);font-size:13px;letter-spacing:.16em;
+  text-transform:uppercase;color:var(--gris);font-weight:600;
+  padding-bottom:10px;border-bottom:1px solid var(--trait);margin:44px 0 20px}
+h3{font-family:var(--cond);font-size:19px;font-weight:600;letter-spacing:.01em}
+.num{font-family:var(--mono);font-variant-numeric:tabular-nums}
+
+/* ---- hero */
+.hero{padding:34px 0 10px}
+.jj{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap}
+.jj b{font-family:var(--mono);font-size:46px;font-weight:600;line-height:1;
+  letter-spacing:-.02em}
+.jj span{font-family:var(--cond);font-size:15px;letter-spacing:.1em;
+  text-transform:uppercase;color:var(--gris)}
+.proj{margin-top:26px}
+.proj .t{font-family:var(--mono);font-size:64px;font-weight:300;line-height:1;
+  letter-spacing:-.03em}
+.proj .t em{font-style:normal;font-size:26px;color:var(--gris);margin-left:6px}
+.delta{font-family:var(--mono);font-size:14px;margin-top:6px}
+
+/* ---- barre de course, element signature */
+.piste{margin:22px 0 8px;position:relative}
+.barre{display:flex;height:46px;border-radius:3px;overflow:hidden;
+  background:var(--carte)}
+.seg{position:relative;display:flex;align-items:center;justify-content:center;
+  min-width:2px;border-right:1px solid var(--encre)}
+.seg:last-child{border-right:0}
+.seg i{font-style:normal;font-family:var(--mono);font-size:11px;
+  color:#0F1D26;font-weight:600;white-space:nowrap}
+.s-nage{background:#2E7F9E}.s-velo{background:var(--lac)}
+.s-course{background:#8FBF57}.s-t{background:var(--faible)}
+.legende{display:flex;gap:16px;margin-top:10px;flex-wrap:wrap;
+  font-family:var(--mono);font-size:11px;color:var(--gris)}
+.legende i{font-style:normal;display:inline-block;width:9px;height:9px;
+  border-radius:2px;margin-right:5px;vertical-align:middle}
+.cible{position:absolute;top:-9px;bottom:-9px;width:2px;background:var(--papier)}
+.cible b{position:absolute;top:-19px;left:50%;transform:translateX(-50%);
+  font-family:var(--mono);font-size:10px;letter-spacing:.08em;
+  color:var(--papier);white-space:nowrap;font-weight:400}
+
+/* ---- cartes */
+.carte{background:var(--carte);border-radius:4px;padding:20px 22px;
+  margin-bottom:12px;border-left:3px solid var(--trait)}
+.carte.ok{border-left-color:var(--lac)}
+.carte.att{border-left-color:var(--ambre)}
+.carte.ko{border-left-color:var(--rouille)}
+.carte p{color:var(--gris);font-size:14px}
+.badge{display:inline-block;font-family:var(--cond);font-size:12px;
+  letter-spacing:.14em;text-transform:uppercase;padding:3px 9px;
+  border-radius:2px;font-weight:600}
+.b-ok{background:var(--lac);color:#0F1D26}
+.b-att{background:var(--ambre);color:#0F1D26}
+.b-ko{background:var(--rouille);color:#fff}
+
+/* ---- lignes de mesure */
+.mes{display:grid;grid-template-columns:1fr auto auto;gap:4px 14px;
+  align-items:baseline;padding:9px 0;border-bottom:1px solid var(--trait)}
+.mes:last-child{border-bottom:0}
+.mes .l{font-size:14px;color:var(--gris)}
+.mes .v{font-family:var(--mono);font-size:17px;text-align:right}
+.mes .r{font-family:var(--mono);font-size:12px;color:var(--faible);
+  text-align:right;min-width:66px}
+.up{color:var(--lac)}.dn{color:var(--rouille)}.eq{color:var(--gris)}
+
+/* ---- jauge prescrit/realise */
+.jauge{height:6px;background:var(--trait);border-radius:3px;overflow:hidden;
+  grid-column:1/-1;margin-top:2px}
+.jauge b{display:block;height:100%;background:var(--lac);border-radius:3px}
+.jauge b.att{background:var(--ambre)}.jauge b.ko{background:var(--rouille)}
+
+/* ---- comparaison deux barres */
+.duo{margin:14px 0}
+.duo .r2{display:grid;grid-template-columns:120px 1fr 62px;gap:12px;
+  align-items:center;margin-bottom:9px}
+.duo .lab{font-size:13px;color:var(--gris)}
+.duo .bar{height:22px;background:var(--trait);border-radius:2px}
+.duo .bar b{display:block;height:100%;border-radius:2px}
+.duo .val{font-family:var(--mono);font-size:14px;text-align:right}
+
+/* ---- jalons */
+.jal{display:flex;align-items:center;gap:13px;padding:11px 0;
+  border-bottom:1px solid var(--trait)}
+.jal:last-child{border-bottom:0}
+.coche{width:19px;height:19px;border-radius:50%;flex:0 0 19px;
+  border:1.5px solid var(--faible);display:flex;align-items:center;
+  justify-content:center;font-size:11px;color:var(--encre)}
+.coche.on{background:var(--lac);border-color:var(--lac)}
+.jal .t2{flex:1;font-size:14px}
+.jal .m{font-family:var(--mono);font-size:13px;color:var(--gris)}
+
+/* ---- planning */
+.jour{display:grid;grid-template-columns:74px 1fr auto;gap:14px;
+  align-items:center;padding:13px 0;border-bottom:1px solid var(--trait)}
+.jour:last-child{border-bottom:0}
+.jour .d{font-family:var(--mono);font-size:12px;color:var(--gris);
+  line-height:1.3}
+.jour .d b{display:block;color:var(--papier);font-size:15px}
+.jour .n{font-size:14px}
+.jour .n em{font-style:normal;display:block;font-size:12px;color:var(--faible);
+  font-family:var(--mono);margin-top:2px}
+.jour .q{font-family:var(--mono);font-size:12px;color:var(--gris);
+  text-align:right;white-space:nowrap}
+.jour.cle{background:linear-gradient(90deg,rgba(217,151,59,.12),transparent);
+  margin:0 -12px;padding-left:12px;padding-right:12px;border-radius:3px}
+.jour.cle .n{color:var(--ambre);font-weight:600}
+.note{font-size:13px;color:var(--ambre);padding:10px 0 0;line-height:1.5}
+.pied{margin-top:46px;padding-top:18px;border-top:1px solid var(--trait);
+  font-family:var(--mono);font-size:11px;color:var(--faible)}
+
+/* ---- entete de seance */
+.tete{display:flex;justify-content:space-between;align-items:flex-start;gap:14px}
+.pastille{font-family:var(--mono);font-size:10px;letter-spacing:.1em;
+  text-transform:uppercase;padding:4px 8px;border-radius:2px;white-space:nowrap;
+  flex:0 0 auto}
+.p-ok{background:rgba(47,168,152,.16);color:var(--lac)}
+.p-att{background:rgba(217,151,59,.16);color:var(--ambre)}
+
+/* ---- bandeau de chiffres cles */
+.grille{display:grid;grid-template-columns:repeat(auto-fit,minmax(78px,1fr));
+  gap:1px;background:var(--trait);border-radius:3px;overflow:hidden;
+  margin:18px 0 4px}
+.kpi{background:var(--carte);padding:12px 10px}
+.kpi b{font-family:var(--mono);font-size:23px;font-weight:400;line-height:1;
+  display:inline}
+.kpi i{font-style:normal;font-family:var(--mono);font-size:11px;
+  color:var(--gris);margin-left:3px}
+.kpi span{display:block;font-family:var(--cond);font-size:11px;
+  letter-spacing:.1em;text-transform:uppercase;color:var(--faible);margin-top:6px}
+.presc{margin:18px 0 6px;font-size:14px;color:var(--gris)}
+.lecture{margin-top:16px;padding-top:14px;border-top:1px solid var(--trait);
+  font-size:14px}
+
+/* ---- zones cardiaques */
+.zbar{height:26px;margin-top:8px}
+.zbar .seg i{font-size:10px}
+.z1{background:#3D6B80}.z2{background:#2FA898}.z3{background:#8FBF57}
+.z4{background:var(--ambre)}.z5{background:var(--rouille)}
+i.pz{display:inline-block;width:9px;height:9px;border-radius:2px;
+  margin-right:5px;vertical-align:middle}
+
+/* ---- tours */
+.tours{display:flex;align-items:flex-end;gap:2px;height:74px;margin-top:8px}
+.tv{flex:1 1 0;display:flex;align-items:flex-end;height:100%;min-width:3px}
+.tv b{display:block;width:100%;background:var(--lac);border-radius:1px 1px 0 0;
+  transition:opacity .15s}
+.tv:hover b{opacity:.65}
+
+/* ---- hypnogramme */
+.hypno{height:34px;margin-top:8px}
+.h-profond{background:#1D4E6B}.h-leger{background:#3E8FA8}
+.h-rem{background:#7B6FC4}.h-eveil{background:var(--ambre)}
+.axe{display:flex;justify-content:space-between;font-family:var(--mono);
+  font-size:10px;color:var(--faible);margin-top:5px}
+
+/* ---- carte et profil */
+.cartebox{margin-top:20px;border-radius:3px;overflow:hidden;
+  border:1px solid var(--trait)}
+.leafmap{height:300px;width:100%;background:var(--fond);
+  display:flex;align-items:center;justify-content:center}
+.leafmap .carte-svg{max-height:300px}
+.leaflet-container{background:var(--fond)!important}
+.leaflet-control-attribution{background:rgba(15,29,38,.82)!important;
+  color:var(--faible)!important;font-size:9px!important}
+.leaflet-control-attribution a{color:var(--gris)!important}
+.onglets{display:flex;align-items:center;gap:6px;padding:8px 10px;
+  background:var(--fond);border-top:1px solid var(--trait)}
+.onglet{font-family:var(--cond);font-size:11px;letter-spacing:.11em;
+  text-transform:uppercase;padding:5px 11px;border-radius:2px;cursor:pointer;
+  background:transparent;color:var(--gris);border:1px solid var(--trait)}
+.onglet:hover{color:var(--papier)}
+.onglet.on{background:var(--lac);color:#0F1D26;border-color:var(--lac);
+  font-weight:600}
+.onglet:focus-visible{outline:2px solid var(--papier);outline-offset:2px}
+.echelle{margin-left:auto;font-family:var(--mono);font-size:11px;
+  color:var(--gris)}
+.profilbox{background:rgba(0,0,0,.16);border-radius:3px;padding:6px;
+  margin-top:8px}
+.profil-svg{width:100%;height:120px;display:block}
+.svgtxt{font-family:var(--mono);font-size:10px;fill:var(--faible)}
+@media(max-width:560px){.leafmap{height:240px}}
+
+/* ---- resume coach */
+.coach{background:var(--carte);border-radius:4px;padding:22px;margin:24px 0 6px;
+  border-left:3px solid var(--trait)}
+.coach.ok{border-left-color:var(--lac)}
+.coach.att{border-left-color:var(--ambre)}
+.coach.ko{border-left-color:var(--rouille)}
+.coach h1{font-family:var(--cond);font-size:26px;font-weight:600;line-height:1.15;
+  letter-spacing:.005em}
+.coach .sous{font-size:15px;color:var(--gris);margin-top:8px}
+.aujourdhui{margin-top:20px;padding-top:18px;border-top:1px solid var(--trait)}
+.aujourdhui .quoi{font-family:var(--cond);font-size:20px;font-weight:600;
+  margin-top:4px}
+.aujourdhui .meta{font-family:var(--mono);font-size:12px;color:var(--gris);
+  margin-top:5px}
+.aujourdhui .faire{margin-top:12px;font-size:15px}
+.aujourdhui .faire b{color:var(--papier)}
+.puces{margin-top:14px;display:flex;flex-direction:column;gap:5px}
+.puce{font-size:13.5px;display:flex;gap:8px;line-height:1.45}
+.puce i{font-style:normal;flex:0 0 auto;font-family:var(--mono);font-size:12px}
+.puce.p i{color:var(--lac)}.puce.m i{color:var(--rouille)}
+.puce span{color:var(--gris)}
+.coach .synth{font-size:15.5px;line-height:1.62;margin-top:12px;
+  color:var(--papier)}
+.analyse{margin:26px 0 8px;padding:24px;border-radius:4px;
+  background:linear-gradient(160deg,rgba(47,168,152,.10),rgba(24,48,62,.9));
+  border:1px solid var(--trait);border-left:3px solid var(--lac)}
+.analyse p{font-size:16px;line-height:1.68;color:var(--papier);margin-top:14px}
+.analyse p:first-of-type{margin-top:12px}
+.analyse .eyebrow{color:var(--lac)}
+.bloc2{margin-top:20px;padding-top:18px;border-top:1px solid var(--trait)}
+.bloc2 .meta{font-family:var(--mono);font-size:12px;color:var(--gris);
+  margin-top:9px;line-height:1.6}
+.avance{display:grid;grid-template-columns:1fr auto;gap:12px;align-items:center;
+  margin-top:9px}
+.avance .bar{height:20px;background:var(--trait);border-radius:2px}
+.avance .bar b{display:block;height:100%;background:var(--lac);border-radius:2px}
+.avance .val{font-family:var(--mono);font-size:13px;white-space:nowrap}
+.prio{margin-top:20px;padding:14px 16px;border-radius:3px;
+  background:rgba(217,151,59,.11);border-left:2px solid var(--ambre)}
+.prio .quoi{font-family:var(--cond);font-size:19px;font-weight:600;margin-top:4px;
+  color:var(--papier)}
+@media(max-width:560px){
+  .proj .t{font-size:48px}.jj b{font-size:36px}
+  .duo .r2{grid-template-columns:88px 1fr 56px}
+  .jour{grid-template-columns:62px 1fr;gap:10px}.jour .q{display:none}
+}
+@media(prefers-reduced-motion:no-preference){
+  .barre .seg{animation:g .7s cubic-bezier(.2,.8,.2,1) both}
+  @keyframes g{from{flex-basis:0}}
+}
+</style></head><body>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<div class=wrap>
+<div class=hero>
+<div class=jj><b class=num>J-33</b><span>Gérardmer XL · samedi 5 septembre 2026</span></div>
+<div class=analyse>
+<p class=eyebrow>le point du matin</p>
+<p>Bien sûr, Julien ! Le matin de lundi 3 août, nous sommes J-33 avant le triathlon XL de Gérardmer. Nous avons un bon niveau d'entrainement avec un CTL (Chronic Training Load) élevé à 20,4 et un ATL (Acute Training Load) modéré à 9,3. Notre TSB (+11,2) indique une charge supérieure à notre capacité de récupération, ce qui est normal dans le cadre d'une préparation intense pour l'événement.</p>
+<p>En revue des dernières séances, nous voyons que tu as travaillé sur la course à pied avec deux sessions de running (course à pied) et une session de virtual_ride (vélo virtuel). Les performances sont en général bonnes, mais il y a un découplage élevé dans ta dernière session de running. Cela peut être dû à un effort intense ou à une fatigue accumulée.</p>
+<p>Pour aujourd'hui, nous avons prévu un repos complet pour récupérer et préparer l'entraînement programmé demain : Endurance plat + 6 lignes droites. Cette séance devrait être lente et pédagogique avec une focus sur la technique de course à pied.</p>
+<p>Pour cette séance, je te conseille d'avoir un FC (Fitness Level) modéré entre 130 et 140 bpm. Essaye de garder ton rythme constant et tiens compte de ta fatigue accumulée. Si tu ressens des signes de fatigue importante, n'hésite pas à raccourcir la durée de la sé</p>
+</div>
+<div class="coach ok">
+<p class=eyebrow>Aujourd'hui · 43 min · note +1</p>
+<h1>Partiellement productive</h1>
+<p class=synth>43 minutes de natation hors plan.</p>
+<p class=eyebrow style="margin-top:20px">constats</p>
+<div class=puces>
+<div class="puce p"><i>+</i><span>Séance hors plan : 43 min</span></div>
+<div class="puce p"><i>+</i><span>Readiness à 75 au réveil</span></div>
+<div class="puce p"><i>≈</i><span>Découplage en amélioration sur 6 séances : moyenne 5.9 %, -9.0 pt · 4/6 negative splits</span></div>
+</div>
+<div class=bloc2>
+<p class=eyebrow>ce qui se joue cette semaine</p>
+<div class=avance><span class=bar><b style="width:10%"></b></span><span class="val num">0.7 h / 7.6 h</span></div>
+<p class=meta>Il reste : mar Endurance plat + 6 lignes droites · mer 8 x 100 m à 2 · jeu 4 x 6 min tempo · ven 3 x 400 m à 2</p>
+<p class=meta>Natation : 1/3 cette semaine · dernière il y a 0 j</p>
+</div>
+<div class=bloc2>
+<p class=eyebrow>au même J-33 avant tes courses passées</p>
+<div class=mes><span class=l>Deauville · CTL au 05-19</span><span class="v num">40.2</span><span class="r num dn">-18.4 (-46 %)</span></div>
+<div class=mes><span class=l style="padding-left:14px">volume des 28 j précédents</span><span class="v num">18.6 h</span><span class="r num">2452 m D+</span></div>
+</div>
+<div class=prio><p class=eyebrow>la priorité du jour</p><div class=quoi>Placer le 1 200 m de D+ dehors. Il reste 4 dimanches.</div></div>
+<div class=aujourdhui>
+<p class=eyebrow>ce que tu fais aujourd'hui</p>
+<div class=quoi>Repos ou séance très facile</div>
+<div class=meta>Rien de prescrit aujourd'hui.</div>
+<p class=faire><b>Fais-la comme prévu.</b></p>
+</div></div>
+<h2 style="margin-top:38px">Projection sur la course</h2>
+<div class=proj>
+<div class="t num">6 h 29<em>projeté</em></div>
+<div class="delta up">-56 min sur la cible de 7 h 25</div>
+</div>
+<div class=piste><div class=barre>
+<div class="seg s-nage" style="flex:0 0 8.482%"></div>
+<div class="seg s-t" style="flex:0 0 1.080%"></div>
+<div class="seg s-velo" style="flex:0 0 44.707%"><i>Vélo 3 h 27</i></div>
+<div class="seg s-t" style="flex:0 0 0.864%"></div>
+<div class="seg s-course" style="flex:0 0 29.022%"><i>Course 2 h 14</i></div>
+<div class=seg style="flex:1 1 auto;background:transparent"></div>
+</div>
+<div class=cible style="left:96.15%"><b>cible 7 h 25</b></div>
+</div>
+<div class=legende><span><i style="background:#2E7F9E"></i>natation 1,9 km</span><span><i style="background:var(--lac)"></i>vélo 90 km · 1 200 m D+</span><span><i style="background:#8FBF57"></i>course 21,1 km</span><span><i style="background:var(--faible)"></i>transitions</span></div>
+</div>
+<h2>La séance · aujourd'hui</h2>
+<div class=carte>
+<div class=tete>
+<div><h3>Nat. piscine</h3><p class=eyebrow style="margin-top:4px">lundi 3 août 2026 · 18:24 · lap_swimming</p></div>
+<span class="pastille p-ok">détail reçu</span>
+</div>
+<div class=grille>
+<div class=kpi><b class=num>43</b><i>min</i><span>Durée</span></div>
+<div class=kpi><b class=num>2.0</b><i>km</i><span>Distance</span></div>
+<div class=kpi><b class=num>2:10</b><i>/100 m</i><span>Allure</span></div>
+<div class=kpi><b class=num>137</b><i>bpm</i><span>FC</span></div>
+<div class=kpi><b class=num>57</b><i>TSS</i><span>Charge</span></div>
+</div>
+<p class=eyebrow style="margin-top:20px">temps par zone cardiaque</p>
+<div class="barre zbar">
+<div class="seg z1" style="flex:0 0 7.94%"></div>
+<div class="seg z2" style="flex:0 0 21.73%"><i>Z2</i></div>
+<div class="seg z3" style="flex:0 0 66.12%"><i>Z3</i></div>
+<div class="seg z4" style="flex:0 0 4.21%"></div>
+</div>
+<div class=legende><span><i class="pz z1"></i>Z1 3 min</span> <span><i class="pz z2"></i>Z2 9 min</span> <span><i class="pz z3"></i>Z3 28 min</span> <span><i class="pz z4"></i>Z4 2 min</span></div>
+<p class=eyebrow style="margin-top:22px">première moitié contre seconde</p>
+<div class=duo>
+<div class=r2><span class=lab>FC moyenne · 1re</span><span class=bar><b style="width:91%;background:var(--faible)"></b></span><span class="val num">130</span></div>
+<div class=r2><span class=lab>FC moyenne · 2de</span><span class=bar><b style="width:100%;background:var(--rouille)"></b></span><span class="val num">143 bpm</span></div>
+</div>
+<p class=eyebrow style="margin-top:22px">8 tours · allure</p>
+<div class=tours>
+<span class=tv title="Tour 1 · 1:45"><b style="height:100%"></b></span>
+<span class=tv title="Tour 2 · 2:04"><b style="height:65%"></b></span>
+<span class=tv title="Tour 3 · 2:16"><b style="height:43%"></b></span>
+<span class=tv title="Tour 4 · 2:01"><b style="height:70%"></b></span>
+<span class=tv title="Tour 5 · 1:53"><b style="height:85%"></b></span>
+<span class=tv title="Tour 6 · 2:11"><b style="height:52%"></b></span>
+<span class=tv title="Tour 7 · 2:27"><b style="height:22%"></b></span>
+<span class=tv title="Tour 8 · 2:17"><b style="height:40%"></b></span>
+</div>
+<div class=legende><span>meilleur 1:45</span><span>moins bon 2:27</span></div>
+<div style="margin-top:22px">
+<div class=mes><span class=l>Dérive cardiaque</span><span class="v num">12.7 bpm</span><span class="r num"><span class="up">-0.6</span></span></div>
+<div class=mes><span class=l>Charge</span><span class="v num">57</span><span class="r num"><span class="up">+7.2</span></span></div>
+</div>
+<p class=eyebrow style="margin-top:12px">signal fin et trace : seances/2026-08-03_lap_swimming_23838889960.md</p>
+</div>
+<h2>Sommeil et performance</h2>
+<div class=carte>
+<h3>Ce que ton historique démontre</h3>
+<p style="margin-top:6px">Sur 51 séances appariées à la nuit qui les précède, séparées au readiness médian de 57.</p>
+<div class=duo>
+<div class=r2><span class=lab>Après bonne nuit</span><span class=bar><b style="width:-14%;background:var(--lac)"></b></span><span class="val num">-0.4 %</span></div>
+<div class=r2><span class=lab>Après mauvaise nuit</span><span class=bar><b style="width:100%;background:var(--rouille)"></b></span><span class="val num">2.9 %</span></div>
+</div>
+<p class=eyebrow>découplage moyen</p>
+<p style="margin-top:14px;color:var(--papier)">Une mauvaise nuit te coûte <b class=num>3.3 points</b> de découplage. Sur les quatre heures de vélo de Gérardmer, cet écart se paie directement sur les 21 km qui suivent. Ton sommeil est un paramètre de performance, pas de confort.</p>
+</div>
+<h2>Ce qui doit être acquis</h2>
+<div class=carte>
+<p class=eyebrow>2 sur 6 validés · bloc ouvert le lundi 22 juin 2026</p><div style="margin-top:10px">
+<div class=jal><span class="coche "></span><span class=t2>Sortie vélo avec 1 200 m de D+ en extérieur</span><span class=m>498 m <span style="color:var(--faible)">· record 1178 m</span></span></div>
+<div class=jal><span class="coche "></span><span class=t2>Sortie vélo de 3 h 30 ou plus</span><span class=m>3.0 h <span style="color:var(--faible)">· record 3.4 h</span></span></div>
+<div class=jal><span class="coche on">✓</span><span class=t2>Course de 1 h 45 ou plus</span><span class=m>1.8 h</span></div>
+<div class=jal><span class="coche "></span><span class=t2>Brique avec 45 min de course enchaînée</span><span class=m>— <span style="color:var(--faible)">· record 30 min</span></span></div>
+<div class=jal><span class="coche on">✓</span><span class=t2>Natation continue de 1 900 m</span><span class=m>2000 m</span></div>
+<div class=jal><span class="coche "></span><span class=t2>Trois semaines à 3 natations ou plus</span><span class=m>0 sem. sur 6 <span style="color:var(--faible)">· record 0 sem. au total</span></span></div>
+</div></div>
+<div class=carte><div class=mes><span class=l>Forme de fond (CTL)</span><span class="v num">21.8</span><span class="r num"><span class="dn">-1.0</span></span></div><div class=mes><span class=l>Fatigue (ATL)</span><span class="v num">17.4</span><span class=r></span></div><div class=mes><span class=l>Fraîcheur (TSB)</span><span class="v num">+4.4</span><span class=r></span></div></div>
+<h2>Les sept prochains jours</h2>
+<div class=carte>
+<div class="jour">
+<span class=d>mar<b>04/08</b></span>
+<span class=n>Endurance plat + 6 lignes droites<em>running · FC 125-140</em></span>
+<span class=q>60 min</span>
+</div>
+<div class="jour">
+<span class=d>mer<b>05/08</b></span>
+<span class=n>8 x 100 m à 2:00<em>lap_swimming</em></span>
+<span class=q>60 min</span>
+</div>
+<div class="jour">
+<span class=d>jeu<b>06/08</b></span>
+<span class=n>4 x 6 min tempo<em>indoor_cycling · FC 150-158</em></span>
+<span class=q>60 min</span>
+</div>
+<div class="jour">
+<span class=d>ven<b>07/08</b></span>
+<span class=n>3 x 400 m à 2:05<em>lap_swimming</em></span>
+<span class=q>60 min</span>
+</div>
+<div class="jour">
+<span class=d>sam<b>08/08</b></span>
+<span class=n>Endurance<em>running · FC 125-140</em></span>
+<span class=q>50 min</span>
+</div>
+<div class="jour">
+<span class=d>dim<b>09/08</b></span>
+<span class=n>Sortie longue + 20 min course<em>cycling · 700 m D+ · FC 130-148</em></span>
+<span class=q>165 min</span>
+</div>
+<div class="jour">
+<span class=d>lun<b>10/08</b></span>
+<span class=n>Technique<em>lap_swimming</em></span>
+<span class=q>45 min</span>
+</div>
+</div>
+<div class="carte att"><h3>Ajustements</h3>
+<p style="margin-top:9px">La séance clé est dans 20 jours : 3 h 45 avec 1 200 m de D+ puis 45 min de course. Tu n'as jamais fait ce dénivelé dehors — c'est la séance à ne manquer sous aucun prétexte.</p>
+<p style="margin-top:9px">Tu en es à 1 natation(s) cette semaine. Trois est le minimum : c'est ton gisement le plus rentable.</p>
+</div>
+<div class=pied>Généré le lundi 3 août 2026 à 18:14 · régénéré à chaque synchronisation<br>Détail par séance et par nuit dans les dossiers seances/ et nuits/</div>
+</div></body></html>
