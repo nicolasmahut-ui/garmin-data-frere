@@ -6,24 +6,39 @@
 
 ## 1. Ta séance
 
-### 2026-08-03 · lap_swimming · 43 min
+### 2026-08-04 · virtual_ride · 50 min
 
-*Séance hors plan.*
+**Prescrit** : Endurance plat + 6 lignes droites — 60 min, FC 125-140
+
+| | Réalisé | Prescrit | Écart |
+|---|---|---|---|
+| Durée | **50 min** | 60 min | -10 min |
+| FC moyenne | **114** | 125-140 | -18 |
+
+⚠️ **Écart au plan.** Vérifie si c'était volontaire.
 
 **Le détail**
 
 | | Séance | Réf. 10 dernières |
 |---|---|---|
-| Distance | **2.0 km** | 1.5 km |
-| FC moyenne | **137** | 134 |
-| FC max | **164** | 164 |
-| TSS | **57** | 49 |
-| Dérive cardiaque | **12.7 bpm** | 13.3 bpm |
-| Allure | **2:10/100 m** | 2:00/100 m |
+| Distance | **17.5 km** | 19.6 km |
+| Dénivelé | **480 m** | 408 m |
+| FC moyenne | **114** | 116 |
+| FC max | **133** | 135 |
+| Puissance norm. | **176 W** | 175 W |
+| Cadence | **58** | 68 |
+| TSS | **20** | 23 |
+| Découplage | **-27.3 %** | -1.8 % |
+| Dérive cardiaque | **5.8 bpm** | 7.4 bpm |
+| Meilleur 1 km | 0:45 | 1:14 |
+| Allure | **2:50/km** | 2:46/km |
+| Negative split | **oui** (33.9 %) | 5/10 fois |
 
-Zones FC : **Z1** 8 % · **Z2** 22 % · **Z3** 66 % · **Z4** 4 %
+Zones FC : **Z1** 41 % · **Z2** 59 %
 
-Tours, signal fin et trace : `seances/2026-08-03_lap_swimming_23838889960.md`
+**Lecture** — Découplage -27.3 % — allure parfaitement tenue, c'est exactement le comportement de course. Negative split réussi : c'est ce qui a manqué à Fréjus.
+
+Tours, signal fin et trace : `seances/2026-08-04_virtual_ride_23844108629.md`
 
 ---
 
@@ -46,7 +61,7 @@ Tours, signal fin et trace : `seances/2026-08-03_lap_swimming_23838889960.md`
 
 ## 3. Ton sommeil et cette séance
 
-**La nuit qui a précédé** (2026-08-03)
+**La nuit qui a précédé** (2026-08-04)
 
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
@@ -54,23 +69,23 @@ Tours, signal fin et trace : `seances/2026-08-03_lap_swimming_23838889960.md`
 | Profond | - | 79 min | 16-33 % |
 | REM | - | 82 min | 21-31 % |
 | Score | - | 79.3 | |
-| VFC | - | 98 ms | base 83-119 |
+| VFC | - | 98 ms | base --- |
 | FC repos | - | - | |
-| Readiness | 56 | 69 | |
-| Récupération restante | 21 h | | |
+| Readiness | 64 | 69 | |
+| Récupération restante | 13 h | | |
 
 **Ce que ton historique démontre**
 
-Sur 50 séances appariées à la nuit précédente, en séparant au readiness médian de 57 :
+Sur 51 séances appariées à la nuit précédente, en séparant au readiness médian de 57 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **-0.7 %** | **2.9 %** | +3.6 pt |
+| Découplage moyen | **-1.7 %** | **2.9 %** | +4.7 pt |
 | Sommeil | 7.1 h | 7.2 h | |
 | REM | 88.9 min | 81.1 min | |
 | VFC | 91.9 ms | 75.1 ms | |
 
-**Conclusion : une mauvaise nuit te coûte 3.6 points de découplage.** Sur les 4 h de vélo de Gérardmer, cet écart se paie directement sur les 21 km. Ton sommeil n'est pas un sujet de confort, c'est un paramètre de performance.
+**Conclusion : une mauvaise nuit te coûte 4.7 points de découplage.** Sur les 4 h de vélo de Gérardmer, cet écart se paie directement sur les 21 km. Ton sommeil n'est pas un sujet de confort, c'est un paramètre de performance.
 
 ---
 
@@ -87,9 +102,9 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 2000 m | 2000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 0 sem. sur 6 | 0 sem. au total |
 
-**Charge** : CTL **21.3** (-1.0 sur 7 j) · ATL 14.9 · TSB +6.4
+**Charge** : CTL **21.7** (-0.6 sur 7 j) · ATL 17.7 · TSB +4.0
 
-Trajectoire : 21 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es en retard, il faut charger.
+Trajectoire : 22 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es en retard, il faut charger.
 
 ---
 
