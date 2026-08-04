@@ -1,6 +1,6 @@
-# Coach — J-33 avant Gérardmer XL
+# Coach — J-32 avant Gérardmer XL
 
-*lundi 3 août 2026* · course le samedi 5 septembre 2026
+*mardi 4 août 2026* · course le samedi 5 septembre 2026
 
 ---
 
@@ -53,24 +53,24 @@ Tours, signal fin et trace : `seances/2026-08-03_lap_swimming_23838889960.md`
 | Durée | - | 7.0 h | 8 h |
 | Profond | - | 79 min | 16-33 % |
 | REM | - | 82 min | 21-31 % |
-| Score | - | 79.5 | |
-| VFC | - | 97 ms | base 83-119 |
+| Score | - | 79.3 | |
+| VFC | - | 98 ms | base 83-119 |
 | FC repos | - | - | |
 | Readiness | 56 | 69 | |
 | Récupération restante | 21 h | | |
 
 **Ce que ton historique démontre**
 
-Sur 51 séances appariées à la nuit précédente, en séparant au readiness médian de 57 :
+Sur 50 séances appariées à la nuit précédente, en séparant au readiness médian de 57 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **-0.4 %** | **2.9 %** | +3.3 pt |
+| Découplage moyen | **-0.7 %** | **2.9 %** | +3.6 pt |
 | Sommeil | 7.1 h | 7.2 h | |
 | REM | 88.9 min | 81.1 min | |
 | VFC | 91.9 ms | 75.1 ms | |
 
-**Conclusion : une mauvaise nuit te coûte 3.3 points de découplage.** Sur les 4 h de vélo de Gérardmer, cet écart se paie directement sur les 21 km. Ton sommeil n'est pas un sujet de confort, c'est un paramètre de performance.
+**Conclusion : une mauvaise nuit te coûte 3.6 points de découplage.** Sur les 4 h de vélo de Gérardmer, cet écart se paie directement sur les 21 km. Ton sommeil n'est pas un sujet de confort, c'est un paramètre de performance.
 
 ---
 
@@ -87,17 +87,17 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 2000 m | 2000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 0 sem. sur 6 | 0 sem. au total |
 
-**Charge** : CTL **21.8** (-1.0 sur 7 j) · ATL 17.4 · TSB +4.4
+**Charge** : CTL **21.3** (-1.0 sur 7 j) · ATL 14.9 · TSB +6.4
 
-Trajectoire : 22 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es en retard, il faut charger.
+Trajectoire : 21 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es en retard, il faut charger.
 
 ---
 
 ## 5. Demain
 
-**2026-08-04** — Endurance plat + 6 lignes droites
+**2026-08-05** — 8 x 100 m à 2:00
 
-- running · 60 min · FC 125-140
+- lap_swimming · 60 min
 
 ✅ **Aucun signal négatif.** Séance comme prévu.
 
