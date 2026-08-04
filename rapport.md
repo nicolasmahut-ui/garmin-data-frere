@@ -71,8 +71,8 @@ Tours, signal fin et trace : `seances/2026-08-04_virtual_ride_23844108629.md`
 | Score | - | 79.3 | |
 | VFC | - | 98 ms | base 83-119 |
 | FC repos | - | - | |
-| Readiness | 67 | 69 | |
-| Récupération restante | 9 h | | |
+| Readiness | 66 | 69 | |
+| Récupération restante | 10 h | | |
 
 **Ce que ton historique démontre**
 
