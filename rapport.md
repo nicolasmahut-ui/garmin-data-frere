@@ -72,8 +72,8 @@ Tours, signal fin et trace : `seances/2026-08-04_running_23847228135.md`
 | Score | - | 79.3 | |
 | VFC | - | 98 ms | base 83-119 |
 | FC repos | - | - | |
-| Readiness | 48 | 68 | |
-| Récupération restante | 26 h | | |
+| Readiness | 50 | 69 | |
+| Récupération restante | 23 h | | |
 
 **Ce que ton historique démontre**
 
@@ -115,7 +115,7 @@ Trajectoire : 23 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es en
 
 - lap_swimming · 60 min
 
-**Vigilance** : récupération incomplète. Fais la séance mais dans le bas des zones.
+✅ **Aucun signal négatif.** Séance comme prévu.
 
 ---
 
