@@ -16,3 +16,19 @@ Bien sûr, Julien ! Le matin du 4 août, il est temps de planifier la journée e
 
 Aujourd'hui, il est temps de continuer à travailler sur votre endurance et de préparer votre corps pour le grand jour en septembre. Bonne séance !
 
+---
+
+## Le soir · 21h
+
+Bon soir Julien,
+
+La journée a été productive grâce à la séance de cyclisme virtuel et au running qui ont permis un bon travail du corps et de l'esprit. Le découplage positif sur les deux sessions montre que tu as pu maintenir une bonne intensité tout au long des exercices, ce qui est important pour le triathlon XL de Gérardmer.
+
+Cependant, il y a eu un écart significatif avec la séance prescrite d'endurance sur plat et 6 lignes droites. Il s'agit donc d'une seule session manquée dans ton plan, qui coûte environ 2,5 points au CTL (Chronic Training Load).
+
+Cette absence n'a pas de conséquence majeure sur la projection de Gérardmer car tu as pu compenser cette perte en intensité avec les deux séances réalisées. Mais il est important de ne pas avoir trop d'écarts dans ton plan pour assurer une préparation optimale.
+
+Demain, nous allons travailler sur la nage en faisant 8 x 100 m à 2:00. Cela permettra de travailler sur la respiration et la technique lors de la nage en eau libre. Il est important de prendre le temps de se réchauffer avant cette séance pour éviter toute contrainte musculaire.
+
+Consigne : Ne néglige pas ton plan, il est crucial pour être prêt à Gérardmer.
+
