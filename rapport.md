@@ -1,19 +1,18 @@
-# Coach — J-32 avant Gérardmer XL
+# Coach — J-31 avant Gérardmer XL
 
-*mardi 4 août 2026* · course le samedi 5 septembre 2026
+*mercredi 5 août 2026* · course le samedi 5 septembre 2026
 
 ---
 
 ## 1. Ta séance
 
-### 2026-08-04 · running · 47 min
+### 2026-08-05 · indoor_cycling · 40 min
 
-**Prescrit** : Endurance plat + 6 lignes droites — 60 min, FC 125-140
+**Prescrit** : 8 x 100 m à 2:00 — 60 min
 
 | | Réalisé | Prescrit | Écart |
 |---|---|---|---|
-| Durée | **47 min** | 60 min | -13 min |
-| FC moyenne | **140** | 125-140 | +8 |
+| Durée | **40 min** | 60 min | -20 min |
 
 ⚠️ **Écart au plan.** Vérifie si c'était volontaire.
 
@@ -21,25 +20,23 @@
 
 | | Séance | Réf. 10 dernières |
 |---|---|---|
-| Distance | **7.7 km** | 10.2 km |
-| Dénivelé | **61 m** | 77 m |
-| FC moyenne | **140** | 146 |
-| FC max | **161** | 163 |
-| Puissance norm. | **313 W** | 353 W |
-| Cadence | **157** | 159 |
-| TSS | **38** | 53 |
-| Découplage | **5.7 %** | 8.3 % |
-| Dérive cardiaque | **16.9 bpm** | 10.5 bpm |
-| Meilleur 1 km | 5:40 | 5:04 |
-| Allure | **6:04/km** | 5:34/km |
-| Negative split | **oui** (6.4 %) | 5/10 fois |
-| Météo | 26 °C · 61 % hum. | |
+| Distance | **19.6 km** | 29.1 km |
+| FC moyenne | **116** | 128 |
+| FC max | **138** | 156 |
+| Puissance norm. | **151 W** | 190 W |
+| Cadence | **0** | 87 |
+| TSS | **38** | 56 |
+| Découplage | **-6.0 %** | -6.4 % |
+| Dérive cardiaque | **14.4 bpm** | 17.9 bpm |
+| Meilleur 20 min | **167 W** | 214 W |
+| Allure | **2:02/km** | 2:26/km |
+| Negative split | **oui** (20.0 %) | 6/6 fois |
 
-Zones FC : **Z1** 3 % · **Z2** 23 % · **Z3** 69 % · **Z4** 5 %
+Zones FC : **Z1** 39 % · **Z2** 59 % · **Z3** 2 %
 
-**Lecture** — Découplage 5.7 % — acceptable, léger effritement sur la seconde moitié. Negative split réussi : c'est ce qui a manqué à Fréjus.
+**Lecture** — Découplage -6.0 % — allure parfaitement tenue, c'est exactement le comportement de course. Negative split réussi : c'est ce qui a manqué à Fréjus.
 
-Tours, signal fin et trace : `seances/2026-08-04_running_23847228135.md`
+Tours, signal fin et trace : `seances/2026-08-05_indoor_cycling_23857313504.md`
 
 ---
 
@@ -62,18 +59,18 @@ Tours, signal fin et trace : `seances/2026-08-04_running_23847228135.md`
 
 ## 3. Ton sommeil et cette séance
 
-**La nuit qui a précédé** (2026-08-04)
+**La nuit qui a précédé** (2026-08-05)
 
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
-| Durée | - | 7.0 h | 8 h |
-| Profond | - | 79 min | 16-33 % |
-| REM | - | 82 min | 21-31 % |
-| Score | - | 79.3 | |
-| VFC | - | 98 ms | base 83-119 |
+| Durée | 6.1 h | 7.0 h | 8 h |
+| Profond | 84 min | 78 min | 16-33 % |
+| REM | 48 min (13 %) | 80 min | 21-31 % |
+| Score | 74 | 78.8 | |
+| VFC | 81 ms | 96 ms | base 84-119 |
 | FC repos | - | - | |
-| Readiness | 50 | 69 | |
-| Récupération restante | 23 h | | |
+| Readiness | 56 | 68 | |
+| Récupération restante | 14 h | | |
 
 **Ce que ton historique démontre**
 
@@ -81,12 +78,12 @@ Sur 52 séances appariées à la nuit précédente, en séparant au readiness m�
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **-0.7 %** | **2.0 %** | +2.8 pt |
-| Sommeil | 7.2 h | 7.2 h | |
-| REM | 89.6 min | 79.9 min | |
-| VFC | 90.8 ms | 75.3 ms | |
+| Découplage moyen | **1.0 %** | **2.0 %** | +1.0 pt |
+| Sommeil | 7.1 h | 7.2 h | |
+| REM | 87.3 min | 79.9 min | |
+| VFC | 90.2 ms | 75.3 ms | |
 
-**Conclusion : une mauvaise nuit te coûte 2.8 points de découplage.** Sur les 4 h de vélo de Gérardmer, cet écart se paie directement sur les 21 km. Ton sommeil n'est pas un sujet de confort, c'est un paramètre de performance.
+**Conclusion : pas d'effet net mesurable pour l'instant.** Tu encaisses bien les nuits moyennes.
 
 ---
 
@@ -103,7 +100,7 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 2000 m | 2000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 0 sem. sur 6 | 0 sem. au total |
 
-**Charge** : CTL **22.6** (+0.3 sur 7 j) · ATL 23.1 · TSB -0.5
+**Charge** : CTL **23.0** (+1.3 sur 7 j) · ATL 25.3 · TSB -2.3
 
 Trajectoire : 23 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es en retard, il faut charger.
 
@@ -111,11 +108,11 @@ Trajectoire : 23 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es en
 
 ## 5. Demain
 
-**2026-08-05** — 8 x 100 m à 2:00
+**2026-08-06** — 4 x 6 min tempo
 
-- lap_swimming · 60 min
+- indoor_cycling · 60 min · FC 150-158
 
-✅ **Aucun signal négatif.** Séance comme prévu.
+**Vigilance** : VFC sous ta base. Fais la séance mais dans le bas des zones.
 
 ---
 
