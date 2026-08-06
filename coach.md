@@ -14,3 +14,15 @@ Mon analyse :
 1. Ce que dit la nuit : Nuit longue avec une VFC basse, ce qui montre que la charge a été plus importante que prévu et peut avoir un effet négatif sur votre readiness.
 2. La séance dejourd'hui doit être réduite en durée et intensité pour vous permettre de recharger mieux avant le
 
+---
+
+## Le soir · 21h
+
+Bien sûr, Julien ! La journée a été productive avec un bon entraînement de course à pied de 55 minutes. Le découplage et le negative split ont été respectés, ce qui montre que tu as pu maintenir une bonne rythmique tout au long de la session. Cependant, il y a eu un écart notable par rapport à la séance prescrite (tempo 4 x 6 min) avec un FC moyen plus faible (154 vs 150-158).
+
+Cette différence peut avoir un impact sur la préparation pour le triathlon de Gérardmer. En effet, si tu vas dans cette direction, il est possible que tu ne sois pas au niveau de performance escompté en course à pied. Il serait donc important d'ajuster le plan d'entraînement pour compenser ce déficit.
+
+Pour demain, la séance prévue est 3 x 400 m à 2:05. Cette session sera une bonne occasion de travailler sur la vitesse et la puissance en course à pied. Il est important de respecter les intensités prescrites pour maximiser l'efficacité de cette séance.
+
+Enfin, je te souhaite une bonne nuit et un bon entraînement demain !
+
