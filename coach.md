@@ -14,3 +14,17 @@ Je suis content que votre charge soit en bonne santé avec un CTL de 24,9 et un 
 
 Je vous souhaite une bonne journée et un bon entraînement !
 
+---
+
+## Le soir · 21h
+
+Bonsoir Julien,
+
+La journée a été productive grâce à la bonne séance de natation et du cyclométrique effectués hier. Les découplages négatifs indiquent une bonne adaptation et un bon niveau d'endurance. Le dénivelé positif lors de la course à pied montre que tu tiens bien en montée, ce qui est un avantage pour le triathlon XL de Gérardmer.
+
+Cependant, il y a eu une absence de séance aujourd'hui, ce qui fait perdre quelques points sur les jalons et augmente légèrement la charge. Il est donc important d'avoir une bonne séance d'endurance demain pour compenser cette perte.
+
+Demain, je te propose de faire une longue session d'entraînement en endurance. Cette séance devrait être modérée et se concentrer sur la durée plutôt que sur l'intensité. Il est important de garder un rythme constant tout au long de la séance pour préparer le corps à la course à Gerardmer.
+
+Consigne : Fais une bonne séance d'endurance demain pour compenser la perte de points causée par l'absence de séance aujourd'hui.
+
