@@ -6,13 +6,14 @@
 
 ## 1. Ta séance
 
-### 2026-08-07 · virtual_ride · 55 min
+### 2026-08-06 · running · 55 min
 
-**Prescrit** : 3 x 400 m à 2:05 — 60 min
+**Prescrit** : 4 x 6 min tempo — 60 min, FC 150-158
 
 | | Réalisé | Prescrit | Écart |
 |---|---|---|---|
 | Durée | **55 min** | 60 min | -5 min |
+| FC moyenne | **154** | 150-158 | +0 |
 
 ✅ **Séance conforme au plan.**
 
@@ -20,24 +21,25 @@
 
 | | Séance | Réf. 10 dernières |
 |---|---|---|
-| Distance | **21.5 km** | 19.3 km |
-| Dénivelé | **388 m** | 436 m |
-| FC moyenne | **114** | 116 |
-| FC max | **132** | 135 |
-| Puissance norm. | **183 W** | 181 W |
-| Cadence | **72** | 66 |
-| TSS | **22** | 23 |
-| Découplage | **-2.5 %** | -5.0 % |
-| Dérive cardiaque | **7.3 bpm** | 7.6 bpm |
-| Meilleur 1 km | 1:20 | 1:12 |
-| Allure | **2:32/km** | 2:48/km |
-| Negative split | **oui** (9.2 %) | 6/10 fois |
+| Distance | **10.5 km** | 10.1 km |
+| Dénivelé | **85 m** | 76 m |
+| FC moyenne | **154** | 144 |
+| FC max | **180** | 160 |
+| Puissance norm. | **408 W** | 343 W |
+| Cadence | **162** | 159 |
+| TSS | **61** | 51 |
+| Découplage | **3.9 %** | 6.8 % |
+| Dérive cardiaque | **6.7 bpm** | 10.6 bpm |
+| Meilleur 1 km | 4:05 | 5:15 |
+| Allure | **5:13/km** | 5:41/km |
+| Negative split | **oui** (0.4 %) | 6/10 fois |
+| Météo | 24 °C · 34 % hum. | |
 
-Zones FC : **Z1** 40 % · **Z2** 60 %
+Zones FC : **Z1** 2 % · **Z2** 11 % · **Z3** 40 % · **Z4** 39 % · **Z5** 8 %
 
-**Lecture** — Découplage -2.5 % — allure parfaitement tenue, c'est exactement le comportement de course. Negative split réussi : c'est ce qui a manqué à Fréjus.
+**Lecture** — Découplage 3.9 % — allure parfaitement tenue, c'est exactement le comportement de course. Negative split réussi : c'est ce qui a manqué à Fréjus.
 
-Tours, signal fin et trace : `seances/2026-08-07_virtual_ride_23883312796.md`
+Tours, signal fin et trace : `seances/2026-08-06_running_23879066011.md`
 
 ---
 
@@ -60,31 +62,31 @@ Tours, signal fin et trace : `seances/2026-08-07_virtual_ride_23883312796.md`
 
 ## 3. Ton sommeil et cette séance
 
-**La nuit qui a précédé** (2026-08-07)
+**La nuit qui a précédé** (2026-08-06)
 
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
-| Durée | 6.6 h | 7.1 h | 8 h |
-| Profond | 64 min | 76 min | 16-33 % |
-| REM | 84 min (21 %) | 85 min | 21-31 % |
-| Score | 79 | 80.1 | |
-| VFC | 76 ms | 95 ms | base 84-119 |
+| Durée | 7.7 h | 7.1 h | 8 h |
+| Profond | 91 min | 76 min | 16-33 % |
+| REM | 107 min (23 %) | 85 min | 21-31 % |
+| Score | 87 | 80.1 | |
+| VFC | 76 ms | 95 ms | base 85-119 |
 | FC repos | - | - | |
 | Readiness | 1 | 64 | |
-| Récupération restante | 50 h | | |
+| Récupération restante | 66 h | | |
 
 **Ce que ton historique démontre**
 
-Sur 54 séances appariées à la nuit précédente, en séparant au readiness médian de 55 :
+Sur 51 séances appariées à la nuit précédente, en séparant au readiness médian de 55 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **1.3 %** | **1.6 %** | +0.3 pt |
+| Découplage moyen | **1.4 %** | **3.0 %** | +1.6 pt |
 | Sommeil | 7.1 h | 7.2 h | |
-| REM | 87.1 min | 81.4 min | |
-| VFC | 89.4 ms | 75.4 ms | |
+| REM | 86.6 min | 81.2 min | |
+| VFC | 87.8 ms | 75.3 ms | |
 
-**Conclusion : pas d'effet net mesurable pour l'instant.** Tu encaisses bien les nuits moyennes.
+**Conclusion : une mauvaise nuit te coûte 1.6 points de découplage.** Sur les 4 h de vélo de Gérardmer, cet écart se paie directement sur les 21 km. Ton sommeil n'est pas un sujet de confort, c'est un paramètre de performance.
 
 ---
 
@@ -101,9 +103,9 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 2000 m | 2000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 0 sem. sur 6 | 0 sem. au total |
 
-**Charge** : CTL **24.9** (+4.2 sur 7 j) · ATL 34.0 · TSB -9.1
+**Charge** : CTL **23.7** (+3.2 sur 7 j) · ATL 28.9 · TSB -5.2
 
-Trajectoire : 25 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es en retard, il faut charger.
+Trajectoire : 24 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es en retard, il faut charger.
 
 ---
 
