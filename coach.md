@@ -1,28 +1,16 @@
-# Coach — jeudi 6 août 2026
+# Coach — vendredi 7 août 2026
 
-*J-30 avant Gérardmer XL*
+*J-29 avant Gérardmer XL*
 
 ---
 
 ## Le matin · 9h
 
-Bien sûr, Julien. Nous avons analysé la nuit qui vient de s'écouler et nous pouvons maintenant cadrer la journée qui commence. La nuit a été longue avec un temps de sommeil REM de 107 minutes, ce qui est un bon indice pour une bonne recharge physique. Toutefois, votre VFC (Valeur Fonctionnelle Cardiaque) a retombé à 76 ms contre votre base personnelle de 85-119 ms, ce qui montre que la charge a été plus importante que prévu. Cela pourrait avoir un effet négatif sur votre readiness (prêt physique) qui est actuellement à 54%.
+Bonjour Julien, il est 9h00 et je me suis mis à analyser la nuit qui vient de s'écouler pour planifier votre journée d'entraînement aujourd'hui. Nous avons enregistré 6,6 heures de sommeil, avec une période REM de 84 minutes et un score de 79/100. Votre VFC est de 76 ms contre votre base personnelle de 84-119 ms, ce qui indique que vous avez eu un bon sommeil mais pas de sommeil profond comme d'habitude. Votre score de readiness est également de 1 sur 5, ce qui montre que vous êtes prêt à entrainer.
 
-En conséquence, nous devons adapter notre plan de travail pour aujourd'hui. La séance prévue aujourd'hui était une série de 4 x 6 minutes tempo avec un FC (Fréquence Cardiaque) de 150-158 bpm. Cependant, en considérant votre VFC et votre readiness actuels, nous devons réduire la durée et l'intensité de cette séance pour vous permettre de recharger mieux avant le triathlon XL de Gérardmer.
+En conséquence, je vous propose de faire une séance de cyclisme virtuel de 55 minutes aujourd'hui, comme prévu. Cependant, je vais vous donner une consigne d'exécution plus précise pour cette séance : tentez de maintenir un FC moyen de 120 bpm et un découplage positif de +5%.
 
-Mon analyse :
-1. Ce que dit la nuit : Nuit longue avec une VFC basse, ce qui montre que la charge a été plus importante que prévu et peut avoir un effet négatif sur votre readiness.
-2. La séance dejourd'hui doit être réduite en durée et intensité pour vous permettre de recharger mieux avant le
+Je suis content que votre charge soit en bonne santé avec un CTL de 24,9 et un ATL de 34.0. Votre TSB est négatif à -9.1, ce qui indique que vous avez fait plus d'entraînement que de repos récemment. Vous pouvez donc continuer à suivre votre programme comme prévu pour les jours à venir.
 
----
-
-## Le soir · 21h
-
-Bien sûr, Julien ! La journée a été productive avec un bon entraînement de course à pied de 55 minutes. Le découplage et le negative split ont été respectés, ce qui montre que tu as pu maintenir une bonne rythmique tout au long de la session. Cependant, il y a eu un écart notable par rapport à la séance prescrite (tempo 4 x 6 min) avec un FC moyen plus faible (154 vs 150-158).
-
-Cette différence peut avoir un impact sur la préparation pour le triathlon de Gérardmer. En effet, si tu vas dans cette direction, il est possible que tu ne sois pas au niveau de performance escompté en course à pied. Il serait donc important d'ajuster le plan d'entraînement pour compenser ce déficit.
-
-Pour demain, la séance prévue est 3 x 400 m à 2:05. Cette session sera une bonne occasion de travailler sur la vitesse et la puissance en course à pied. Il est important de respecter les intensités prescrites pour maximiser l'efficacité de cette séance.
-
-Enfin, je te souhaite une bonne nuit et un bon entraînement demain !
+Je vous souhaite une bonne journée et un bon entraînement !
 
