@@ -72,7 +72,7 @@ Tours, signal fin et trace : `seances/2026-08-06_running_23879066011.md`
 | Score | 87 | 81.6 | |
 | VFC | 76 ms | 94 ms | base 85-119 |
 | FC repos | - | - | |
-| Readiness | 1 | 64 | |
+| Readiness | 1 | 63 | |
 | Récupération restante | 66 h | | |
 
 **Ce que ton historique démontre**
