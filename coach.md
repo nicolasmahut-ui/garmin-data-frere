@@ -1,16 +1,20 @@
-# Coach — samedi 8 août 2026
+# Coach — lundi 10 août 2026
 
-*J-28 avant Gérardmer XL*
+*J-26 avant Gérardmer XL*
 
 ---
 
 ## Le matin · 9h
 
-Bien sûr, Julien ! Le matin d'aujourd'hui, après une nuit de sommeil de 6 heures et demie avec un temps de REM élevé à 93 minutes (score 82), votre VFC est tombée à 88 ms en dessous de votre base personnelle (85-119). Cela indique que vous avez eu une nuit plus longue que prévu, mais pas trop épuisante puisque votre readiness est resté à 8.
+Bonjour Julien, le matin de lundi 10 août 2026 à 11h00. Nous sommes à J-26 pour le triathlon XL de Gérardmer.
 
-En conséquence, la séance d'endurance de 50 minutes aujourd'hui avec un FC compris entre 125 et 140 bpm devrait être maintenue comme prévu, car elle correspond bien à votre charge actuelle (CTL 23.2, ATL 24.8, TSB -1.6) et à vos dernières séances de running, lap swimming et indoor cycling.
+La nuit n'a pas été enregistrée, nous avons donc à considérer les dernières sessions d'entraînement. Il apparaît que tu as un bon niveau de charge physique (CTL 22.1, ATL 18.2) avec un TSB positif de +3.8, ce qui montre une bonne adaptation à ton entraînement.
 
-Pour cette séance, je vous recommande de tenir un FC moyen autour de 130 bpm pour une bonne endurance générale. Attention cependant à ne pas pousser trop dur en montagne, car votre poids léger est un avantage que vous pouvez utiliser pour l'ascension.
+Aujourd'hui est consacré à la technique, ce qui est important pour améliorer ta performance en course. Tu dois donc travailler sur ta nage, ton cyclisme et ta course à pied, avec une attention particulière à ta posture et tes mouvements.
 
-Aujourd'hui, il s'agit d'une séance de préparation pour le triathlon XL de Gérardmer qui aura lieu le 5 septembre prochain. Avec votre frère Nicolas, je suis sûr que vous allez faire une belle performance !
+Demain, nous allons passer à des séances plus intenses : 8 x 90 secondes en côte. Ce sera une bonne occasion pour te pousser physiquement et mentalement, tout en préparant ton corps à la montée de Gérardmer.
+
+Pour cette seance, je t'encourage à trouver un rythme stable qui t'amène à la limite de ta force anaérobie, mais sans te faire dépasser. Cela permettra de travailler ton système cardiovasculaire et ton anaérobiseur, tout en préservant ton corps pour les jours suivants.
+
+Je suis là pour t'accompagner dans ta préparation. N'hésite pas à me contacter si tu as des questions ou des doutes.
 
