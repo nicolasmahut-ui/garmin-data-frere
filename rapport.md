@@ -1,6 +1,6 @@
-# Coach — J-27 avant Gérardmer XL
+# Coach — J-26 avant Gérardmer XL
 
-*dimanche 9 août 2026* · course le samedi 5 septembre 2026
+*lundi 10 août 2026* · course le samedi 5 septembre 2026
 
 ---
 
@@ -67,12 +67,12 @@ Tours, signal fin et trace : `seances/2026-08-06_running_23879066011.md`
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
 | Durée | 7.7 h | 7.2 h | 8 h |
-| Profond | 91 min | 76 min | 16-33 % |
+| Profond | 91 min | 75 min | 16-33 % |
 | REM | 107 min (23 %) | 85 min | 21-31 % |
-| Score | 87 | 81.8 | |
-| VFC | 76 ms | 95 ms | base 85-119 |
+| Score | 87 | 81.6 | |
+| VFC | 76 ms | 94 ms | base 85-119 |
 | FC repos | - | - | |
-| Readiness | 1 | 65 | |
+| Readiness | 1 | 64 | |
 | Récupération restante | 66 h | | |
 
 **Ce que ton historique démontre**
@@ -103,17 +103,17 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 2000 m | 2000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 0 sem. sur 6 | 0 sem. au total |
 
-**Charge** : CTL **22.6** (+1.9 sur 7 j) · ATL 21.3 · TSB +1.3
+**Charge** : CTL **22.1** (+0.5 sur 7 j) · ATL 18.2 · TSB +3.8
 
-Trajectoire : 23 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es en retard, il faut charger.
+Trajectoire : 22 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es en retard, il faut charger.
 
 ---
 
 ## 5. Demain
 
-**2026-08-10** — Technique
+**2026-08-11** — 8 x 90 s en côte
 
-- lap_swimming · 45 min
+- running · 55 min · FC 160-170
 
 ⚠️ **Ajustement** : VFC sous ta base, readiness bas, récupération incomplète. Réduis l'intensité d'un cran et garde la durée, ou décale la séance dure de 24 h.
 
