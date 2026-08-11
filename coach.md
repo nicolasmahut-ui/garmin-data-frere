@@ -1,20 +1,20 @@
-# Coach — lundi 10 août 2026
+# Coach — mardi 11 août 2026
 
-*J-26 avant Gérardmer XL*
+*J-25 avant Gérardmer XL*
 
 ---
 
 ## Le matin · 9h
 
-Bonjour Julien, le matin de lundi 10 août 2026 à 11h00. Nous sommes à J-26 pour le triathlon XL de Gérardmer.
+Bonjour Julien,
 
-La nuit n'a pas été enregistrée, nous avons donc à considérer les dernières sessions d'entraînement. Il apparaît que tu as un bon niveau de charge physique (CTL 22.1, ATL 18.2) avec un TSB positif de +3.8, ce qui montre une bonne adaptation à ton entraînement.
+Le matin d'aujourd'hui, je me penche sur la nuit qui vient de s'écouler et je cadre la journée à venir. La nuit a été longue avec un temps de sommeil de 7,5 heures, dont 98 minutes de REM. Le score est de 85 et votre VFC est tombé à 115 ms (valeur habituelle entre 84-118). Cela montre que la charge a morde plus que prévu. En conséquence, votre readiness est de 50.
 
-Aujourd'hui est consacré à la technique, ce qui est important pour améliorer ta performance en course. Tu dois donc travailler sur ta nage, ton cyclisme et ta course à pied, avec une attention particulière à ta posture et tes mouvements.
+En ce qui concerne la séance prévue aujourd'hui, je vous recommande d'ajuster le plan. Au lieu des 8 x 90 secondes en côte (55 minutes, FC 160-170), j'ai décidé de proposer une séance plus douce pour vous aider à récupérer avant l'ultime étape vers le triathlon XL de Gérardmer.
 
-Demain, nous allons passer à des séances plus intenses : 8 x 90 secondes en côte. Ce sera une bonne occasion pour te pousser physiquement et mentalement, tout en préparant ton corps à la montée de Gérardmer.
+SÉANCE PRESCRITE AUJOURD'HUI : 5 x 2 min en côte (10 minutes, FC 140-150)
 
-Pour cette seance, je t'encourage à trouver un rythme stable qui t'amène à la limite de ta force anaérobie, mais sans te faire dépasser. Cela permettra de travailler ton système cardiovasculaire et ton anaérobiseur, tout en préservant ton corps pour les jours suivants.
+Je vous recommande d'effectuer chaque effort avec un rythme modéré et de ne pas pousser trop dur. Il est important que votre corps se remette complètement pour l'étape suivante.
 
-Je suis là pour t'accompagner dans ta préparation. N'hésite pas à me contacter si tu as des questions ou des doutes.
+Julien, je te souhaite une bonne journée et un bon entraînement !
 
