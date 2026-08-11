@@ -18,3 +18,17 @@ Je vous recommande d'effectuer chaque effort avec un rythme modéré et de ne pa
 
 Julien, je te souhaite une bonne journée et un bon entraînement !
 
+---
+
+## Le soir · 21h
+
+Soir Julien,
+
+Cette journée a été productive grâce à la session de course à pied de 62 minutes qui s'est bien déroulée, avec un bon découplage et un bon negative split. En revanche, il y a eu une seule séance prévue aujourd'hui, celle des efforts en côte, qui n'a pas été effectuée. Cela signifie que vous avez manqué une session de travail spécifique pour votre prochain triathlon XL de Gérardmer. En conséquence, cela coûtera un peu plus sur les jalons et la charge globale.
+
+Cette séance manquée peut avoir un impact significatif sur la préparation à long terme pour le triathlon, car elle était spécifiquement conçue pour vous aider à progresser en montagne. Cependant, il y a encore 25 jours avant l'événement, ce qui est assez de temps pour récupérer et compenser cette perte.
+
+Demain, je vous propose une séance de natation de 5 x 200 m à la vitesse de 1:58. Cette session sera un bon moyen d'améliorer votre endurance en eau, qui est importante pour le triathlon. Vous pouvez également utiliser cette séance pour travailler sur votre découplage et votre negative split.
+
+En résumé, travaillez dur demain pour compenser la session manquée aujourd'hui et continuez à travailler sur votre découplage et votre negative split dans toutes vos sessions d'entraînement.
+
