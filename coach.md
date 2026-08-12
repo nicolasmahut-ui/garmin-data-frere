@@ -14,3 +14,15 @@ Pour cette séance, je te conseille de tenir une fréquence cardiaque moyenne de
 
 Reste en forme et ne manque pas
 
+---
+
+## Le soir · 21h
+
+Soir Julien, 21h00. La journée a été productive grâce à la séance de natation et du cyclisme virtuel enregistrée. Le dénouement de votre séance de natation n'est pas encore disponible, mais je suis sûr que vous avez continué de travailler sur le negative split. En ce qui concerne la course à pied, il y a eu une session d'entraînement enregistrée hier. Vous avez fait un bon travail avec un découplage positif et un negative split.
+
+Cette performance change significativement notre perspective pour le triathlon XL de Gérardmer. Votre CTL (Chronic Training Load) est en hausse, ce qui indique que votre entraînement est efficace. Toutefois, votre ATL (Acute Training Load) est également en hausse, ce qui signifie que vous allez devoir gérer votre charge physique pour éviter les blessures et la fatigue accumulée.
+
+Aujourd'hui, il n'y a pas eu de séance enregistrée, mais cela était prévu comme un jour de repos dans votre plan. Demain, nous allons commencer une nouvelle phase d'entraînement avec des sessions de 10 minutes à répétition. Nous allons aborder ces sessions en utilisant le negative split pour vous aider à maintenir une intensité élevée tout au long de chaque session.
+
+Consigne : Gardez à l'esprit que la fatigue accumulée est importante et assurez-vous de prendre soin de votre corps pendant les prochaines semaines pour être prêt
+
