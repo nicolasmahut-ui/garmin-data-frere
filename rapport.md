@@ -62,8 +62,8 @@ Tours, signal fin et trace : `seances/2026-08-12_lap_swimming_23952603555.md`
 | Score | 86 | 81.8 | |
 | VFC | 112 ms | 96 ms | base 84-118 |
 | FC repos | - | - | |
-| Readiness | 48 | 60 | |
-| Récupération restante | 21 h | | |
+| Readiness | 50 | 60 | |
+| Récupération restante | 20 h | | |
 
 **Ce que ton historique démontre**
 
