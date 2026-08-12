@@ -6,14 +6,13 @@
 
 ## 1. Ta séance
 
-### 2026-08-11 · running · 62 min
+### 2026-08-12 · virtual_ride · 42 min
 
-**Prescrit** : 8 x 90 s en côte — 55 min, FC 160-170
+**Prescrit** : 5 x 200 m à 1:58 — 60 min
 
 | | Réalisé | Prescrit | Écart |
 |---|---|---|---|
-| Durée | **62 min** | 55 min | +7 min |
-| FC moyenne | **128** | 160-170 | -37 |
+| Durée | **42 min** | 60 min | -18 min |
 
 ⚠️ **Écart au plan.** Vérifie si c'était volontaire.
 
@@ -21,25 +20,24 @@
 
 | | Séance | Réf. 10 dernières |
 |---|---|---|
-| Distance | **10.5 km** | 10.3 km |
-| Dénivelé | **82 m** | 78 m |
-| FC moyenne | **128** | 144 |
-| FC max | **154** | 160 |
-| Puissance norm. | **323 W** | 342 W |
-| Cadence | **161** | 159 |
-| TSS | **37** | 52 |
-| Découplage | **-2.2 %** | 5.6 % |
-| Dérive cardiaque | **7.0 bpm** | 8.6 bpm |
-| Meilleur 1 km | 5:28 | 5:15 |
-| Allure | **5:53/km** | 5:45/km |
-| Negative split | **oui** (8.0 %) | 7/10 fois |
-| Météo | 17 °C · 77 % hum. | |
+| Distance | **8.2 km** | 19.2 km |
+| Dénivelé | **458 m** | 433 m |
+| FC moyenne | **117** | 117 |
+| FC max | **137** | 137 |
+| Puissance norm. | **176 W** | 179 W |
+| Cadence | **0** | 67 |
+| TSS | **18** | 24 |
+| Découplage | **23.1 %** | -0.6 % |
+| Dérive cardiaque | **8.9 bpm** | 8.3 bpm |
+| Meilleur 1 km | 3:37 | 1:19 |
+| Allure | **5:05/km** | 2:51/km |
+| Negative split | **non** (-17.1 %) | 4/10 fois |
 
-Zones FC : **Z1** 2 % · **Z2** 87 % · **Z3** 11 %
+Zones FC : **Z1** 32 % · **Z2** 67 % · **Z3** 2 %
 
-**Lecture** — Découplage -2.2 % — allure parfaitement tenue, c'est exactement le comportement de course. Negative split réussi : c'est ce qui a manqué à Fréjus.
+**Lecture** — Découplage 23.1 % — départ trop rapide pour la durée. Sur un XL, ce profil mène au mur. Pas de negative split — à corriger sur les sorties longues.
 
-Tours, signal fin et trace : `seances/2026-08-11_running_23931191767.md`
+Tours, signal fin et trace : `seances/2026-08-12_virtual_ride_23944740999.md`
 
 ---
 
@@ -62,29 +60,29 @@ Tours, signal fin et trace : `seances/2026-08-11_running_23931191767.md`
 
 ## 3. Ton sommeil et cette séance
 
-**La nuit qui a précédé** (2026-08-11)
+**La nuit qui a précédé** (2026-08-12)
 
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
-| Durée | 7.5 h | 7.1 h | 8 h |
-| Profond | 28 min | 74 min | 16-33 % |
-| REM | 98 min (22 %) | 84 min | 21-31 % |
-| Score | 85 | 81.8 | |
-| VFC | 115 ms | 96 ms | base 84-118 |
+| Durée | 7.4 h | 7.1 h | 8 h |
+| Profond | 89 min | 74 min | 16-33 % |
+| REM | 89 min (20 %) | 84 min | 21-31 % |
+| Score | 86 | 81.8 | |
+| VFC | 112 ms | 96 ms | base 84-118 |
 | FC repos | - | - | |
-| Readiness | 50 | 60 | |
-| Récupération restante | 25 h | | |
+| Readiness | 56 | 60 | |
+| Récupération restante | 11 h | | |
 
 **Ce que ton historique démontre**
 
-Sur 51 séances appariées à la nuit précédente, en séparant au readiness médian de 55 :
+Sur 52 séances appariées à la nuit précédente, en séparant au readiness médian de 55 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **1.4 %** | **2.9 %** | +1.4 pt |
+| Découplage moyen | **2.2 %** | **2.9 %** | +0.7 pt |
 | Sommeil | 7.1 h | 7.2 h | |
-| REM | 86.6 min | 82.1 min | |
-| VFC | 87.8 ms | 77.4 ms | |
+| REM | 86.7 min | 82.1 min | |
+| VFC | 89.1 ms | 77.4 ms | |
 
 **Conclusion : pas d'effet net mesurable pour l'instant.** Tu encaisses bien les nuits moyennes.
 
@@ -103,7 +101,7 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 2000 m | 2000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 0 sem. sur 6 | 0 sem. au total |
 
-**Charge** : CTL **23.6** (+0.2 sur 7 j) · ATL 25.7 · TSB -2.1
+**Charge** : CTL **24.0** (+0.6 sur 7 j) · ATL 28.4 · TSB -4.3
 
 Trajectoire : 24 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es en retard, il faut charger.
 
@@ -115,7 +113,7 @@ Trajectoire : 24 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es en
 
 - indoor_cycling · 75 min · FC 152-160
 
-**Vigilance** : récupération incomplète. Fais la séance mais dans le bas des zones.
+✅ **Aucun signal négatif.** Séance comme prévu.
 
 ---
 
