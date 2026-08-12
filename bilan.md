@@ -270,4 +270,4 @@ Un fichier par séance, avec tours, signal fin et métriques dérivées.
 - `activites-recent.csv` et `wellness-recent.csv` — 60 jours, allégés
 - `profil.md` — matériel, zones, FTP, records personnels
 
-`wellness.csv` contient 366 colonnes distinctes.
+`wellness.csv` contient 365 colonnes distinctes.
