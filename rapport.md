@@ -6,13 +6,14 @@
 
 ## 1. Ta séance
 
-### 2026-08-12 · lap_swimming · 32 min
+### 2026-08-13 · running · 57 min
 
-**Prescrit** : 5 x 200 m à 1:58 — 60 min
+**Prescrit** : 3 x 10 min — 75 min, FC 152-160
 
 | | Réalisé | Prescrit | Écart |
 |---|---|---|---|
-| Durée | **32 min** | 60 min | -28 min |
+| Durée | **57 min** | 75 min | -18 min |
+| FC moyenne | **160** | 152-160 | +4 |
 
 ⚠️ **Écart au plan.** Vérifie si c'était volontaire.
 
@@ -20,16 +21,25 @@
 
 | | Séance | Réf. 10 dernières |
 |---|---|---|
-| Distance | **1.6 km** | 1.6 km |
-| FC moyenne | **130** | 132 |
-| FC max | **155** | 163 |
-| TSS | **54** | 50 |
-| Dérive cardiaque | **5.2 bpm** | 14.0 bpm |
-| Allure | **1:58/100 m** | 2:03/100 m |
+| Distance | **10.5 km** | 10.5 km |
+| Dénivelé | **72 m** | 79 m |
+| FC moyenne | **160** | 142 |
+| FC max | **175** | 158 |
+| Puissance norm. | **374 W** | 339 W |
+| Cadence | **161** | 159 |
+| TSS | **73** | 52 |
+| Découplage | **9.6 %** | 4.7 % |
+| Dérive cardiaque | **14.5 bpm** | 7.7 bpm |
+| Meilleur 1 km | 4:39 | 5:17 |
+| Allure | **5:25/km** | 5:48/km |
+| Negative split | **non** (-1.0 %) | 7/10 fois |
+| Météo | 37 °C · 16 % hum. | |
 
-Zones FC : **Z1** 9 % · **Z2** 64 % · **Z3** 27 % · **Z4** 0 %
+Zones FC : **Z1** 1 % · **Z2** 7 % · **Z3** 15 % · **Z4** 77 %
 
-Tours, signal fin et trace : `seances/2026-08-12_lap_swimming_23952603555.md`
+**Lecture** — Découplage 9.6 % — acceptable, léger effritement sur la seconde moitié. Pas de negative split — à corriger sur les sorties longues.
+
+Tours, signal fin et trace : `seances/2026-08-13_running_23965973480.md`
 
 ---
 
@@ -52,31 +62,31 @@ Tours, signal fin et trace : `seances/2026-08-12_lap_swimming_23952603555.md`
 
 ## 3. Ton sommeil et cette séance
 
-**La nuit qui a précédé** (2026-08-12)
+**La nuit qui a précédé** (2026-08-13)
 
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
-| Durée | 7.4 h | 7.2 h | 8 h |
-| Profond | 89 min | 76 min | 16-33 % |
-| REM | 89 min (20 %) | 86 min | 21-31 % |
-| Score | 86 | 81.9 | |
-| VFC | 112 ms | 94 ms | base 84-118 |
+| Durée | 8.2 h | 7.2 h | 8 h |
+| Profond | 116 min | 76 min | 16-33 % |
+| REM | 129 min (26 %) | 86 min | 21-31 % |
+| Score | 97 | 81.9 | |
+| VFC | 86 ms | 94 ms | base 84-118 |
 | FC repos | - | - | |
-| Readiness | 50 | 59 | |
-| Récupération restante | 20 h | | |
+| Readiness | 16 | 57 | |
+| Récupération restante | 49 h | | |
 
 **Ce que ton historique démontre**
 
-Sur 52 séances appariées à la nuit précédente, en séparant au readiness médian de 55 :
+Sur 53 séances appariées à la nuit précédente, en séparant au readiness médian de 55 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **1.4 %** | **3.7 %** | +2.2 pt |
-| Sommeil | 7.1 h | 7.2 h | |
-| REM | 86.6 min | 82.5 min | |
-| VFC | 87.8 ms | 79.2 ms | |
+| Découplage moyen | **1.4 %** | **3.9 %** | +2.5 pt |
+| Sommeil | 7.1 h | 7.3 h | |
+| REM | 86.6 min | 84.7 min | |
+| VFC | 87.8 ms | 79.5 ms | |
 
-**Conclusion : une mauvaise nuit te coûte 2.2 points de découplage.** Sur les 4 h de vélo de Gérardmer, cet écart se paie directement sur les 21 km. Ton sommeil n'est pas un sujet de confort, c'est un paramètre de performance.
+**Conclusion : une mauvaise nuit te coûte 2.5 points de découplage.** Sur les 4 h de vélo de Gérardmer, cet écart se paie directement sur les 21 km. Ton sommeil n'est pas un sujet de confort, c'est un paramètre de performance.
 
 ---
 
@@ -93,9 +103,9 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 2000 m | 2000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 0 sem. sur 6 | 0 sem. au total |
 
-**Charge** : CTL **24.7** (+0.4 sur 7 j) · ATL 31.0 · TSB -6.3
+**Charge** : CTL **26.4** (+2.1 sur 7 j) · ATL 41.4 · TSB -14.9
 
-Trajectoire : 25 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es en retard, il faut charger.
+Trajectoire : 26 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es en retard, il faut charger.
 
 ---
 
@@ -105,7 +115,7 @@ Trajectoire : 25 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es en
 
 - lap_swimming · 60 min
 
-✅ **Aucun signal négatif.** Séance comme prévu.
+⚠️ **Ajustement** : readiness bas, récupération incomplète. Réduis l'intensité d'un cran et garde la durée, ou décale la séance dure de 24 h.
 
 ---
 
