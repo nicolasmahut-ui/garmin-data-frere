@@ -141,13 +141,13 @@ Repères : FCmax 194 · FCrepos 50 · seuil 172 · FTP 200 W · CSS 2:00/100 m
 | 2026-08-20 | - | 97 | 6.8 h | 79 | 33 | - | - |
 | 2026-08-21 | - | 98 | 6.9 h | 88 | 50 | - | - |
 | 2026-08-22 | - | 96 | 6.7 h | 83 | 27 | - | 53.2 |
-| 2026-08-23 | - | 83 | 6.2 h | 74 | 49 | - | - |
+| 2026-08-23 | - | 83 | 6.2 h | 74 | 50 | - | - |
 
 ### Tendances 7 j vs 28 j
 
 - VFC : 92.4 vs 91.7 (+0.7)
 - Sommeil : 6.8 vs 7.0 (-0.1)
-- Readiness : 36.0 vs 41.2 (-5.2)
+- Readiness : 36.1 vs 41.2 (-5.0)
 - Poids : 77.0 kg (+2.0 kg depuis le 2024-12-29)
 
 ## Récupération (14 derniers jours)
@@ -167,7 +167,7 @@ Repères : FCmax 194 · FCrepos 50 · seuil 172 · FTP 200 W · CSS 2:00/100 m
 | 2026-08-20 | 33 | 34 h | 100 % | 79 | - |
 | 2026-08-21 | 50 | 22 h | 100 % | 88 | - |
 | 2026-08-22 | 27 | 43 h | 100 % | 83 | - |
-| 2026-08-23 | 49 | 24 h | 100 % | 74 | - |
+| 2026-08-23 | 50 | 23 h | 100 % | 74 | - |
 
 ## Structure du sommeil (30 derniers jours)
 
@@ -201,10 +201,10 @@ Détail nuit par nuit — hypnogramme, FC, VFC 5 min, respiration, SpO2, recharg
 
 ## Scores Garmin
 
-- predi_5k_s : 1282
-- predi_10k_s : 2728
-- predi_semi_s : 6127
-- predi_marathon_s : 13699
+- predi_5k_s : 1278
+- predi_10k_s : 2723
+- predi_semi_s : 6114
+- predi_marathon_s : 13671
 
 ## 15 dernières séances
 
