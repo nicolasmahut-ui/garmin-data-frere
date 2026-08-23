@@ -68,8 +68,8 @@ Tours, signal fin et trace : `seances/2026-08-23_road_biking_24081596020.md`
 | Score | 74 | 80.2 | |
 | VFC | 83 ms | 92 ms | base 85-117 |
 | FC repos | - | - | |
-| Readiness | 49 | 41 | |
-| Récupération restante | 24 h | | |
+| Readiness | 50 | 41 | |
+| Récupération restante | 23 h | | |
 
 **Ce que ton historique démontre**
 
