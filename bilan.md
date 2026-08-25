@@ -1,12 +1,12 @@
-# Bilan Garmin — 24/08/2026
+# Bilan Garmin — 25/08/2026
 
 242 séances du 2024-12-31 au 2026-08-23
 Repères : FCmax 194 · FCrepos 50 · seuil 172 · FTP 200 W · CSS 2:00/100 m
 
 ## Charge
 
-- **CTL 35.8** (forme de fond, +5.1 sur 7 j)
-- ATL 57.5 (fatigue) · TSB -21.7 (fraîcheur)
+- **CTL 34.9** (forme de fond, +3.6 sur 7 j)
+- ATL 49.3 (fatigue) · TSB -14.3 (fraîcheur)
 
 | Semaine | TSS | CTL | TSB |
 |---|---|---|---|
@@ -35,7 +35,7 @@ Repères : FCmax 194 · FCrepos 50 · seuil 172 · FTP 200 W · CSS 2:00/100 m
 | 2026-S32 | 239 | 22.6 | +1.3 |
 | 2026-S33 | 495 | 30.1 | -25.7 |
 | 2026-S34 | 505 | 36.7 | -30.4 |
-| 2026-S35 | 0 | 35.8 | -21.7 |
+| 2026-S35 | 0 | 34.9 | -14.3 |
 
 ## Volumes hebdo
 
@@ -112,7 +112,6 @@ Repères : FCmax 194 · FCrepos 50 · seuil 172 · FTP 200 W · CSS 2:00/100 m
 
 | Date | FC rep | VFC | Sommeil | Score | Readiness | Poids | VO2max |
 |---|---|---|---|---|---|---|---|
-| 2026-07-26 | - | - | - | - | - | - | - |
 | 2026-07-27 | - | - | - | - | - | - | - |
 | 2026-07-28 | - | - | - | - | - | - | - |
 | 2026-07-29 | - | 99 | 8.0 h | 86 | 99 | - | - |
@@ -142,19 +141,19 @@ Repères : FCmax 194 · FCrepos 50 · seuil 172 · FTP 200 W · CSS 2:00/100 m
 | 2026-08-22 | - | 96 | 6.7 h | 83 | 27 | - | 53.2 |
 | 2026-08-23 | - | 83 | 6.2 h | 74 | 50 | - | - |
 | 2026-08-24 | - | 103 | 7.2 h | 84 | 75 | - | - |
+| 2026-08-25 | - | - | - | - | - | - | - |
 
 ### Tendances 7 j vs 28 j
 
-- VFC : 95.7 vs 92.2 (+3.5)
-- Sommeil : 7.0 vs 7.0 (+0.0)
-- Readiness : 41.7 vs 42.4 (-0.7)
+- VFC : 96.5 vs 92.2 (+4.3)
+- Sommeil : 6.8 vs 7.0 (-0.2)
+- Readiness : 39.3 vs 42.4 (-3.1)
 - Poids : 77.0 kg (+2.0 kg depuis le 2024-12-29)
 
 ## Récupération (14 derniers jours)
 
 | Date | Readiness | Temps récup. | Facteur VFC | Facteur sommeil | ACWR |
 |---|---|---|---|---|---|
-| 2026-08-11 | 50 | 25 h | 80 % | 85 | - |
 | 2026-08-12 | 50 | 20 h | 99 % | 86 | - |
 | 2026-08-13 | 16 | 49 h | 100 % | 97 | - |
 | 2026-08-14 | 50 | 26 h | 100 % | 75 | - |
@@ -276,4 +275,4 @@ Un fichier par séance, avec tours, signal fin et métriques dérivées.
 - `activites-recent.csv` et `wellness-recent.csv` — 60 jours, allégés
 - `profil.md` — matériel, zones, FTP, records personnels
 
-`wellness.csv` contient 365 colonnes distinctes.
+`wellness.csv` contient 366 colonnes distinctes.
