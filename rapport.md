@@ -1,6 +1,6 @@
-# Coach — J-12 avant Gérardmer XL
+# Coach — J-11 avant Gérardmer XL
 
-*lundi 24 août 2026* · course le samedi 5 septembre 2026
+*mardi 25 août 2026* · course le samedi 5 septembre 2026
 
 ---
 
@@ -73,16 +73,16 @@ Tours, signal fin et trace : `seances/2026-08-23_road_biking_24081596020.md`
 
 **Ce que ton historique démontre**
 
-Sur 54 séances appariées à la nuit précédente, en séparant au readiness médian de 54 :
+Sur 53 séances appariées à la nuit précédente, en séparant au readiness médian de 54 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **2.2 %** | **4.6 %** | +2.5 pt |
+| Découplage moyen | **2.2 %** | **3.9 %** | +1.7 pt |
 | Sommeil | 7.0 h | 7.3 h | |
-| REM | 84.6 min | 84.5 min | |
-| VFC | 87.5 ms | 82.0 ms | |
+| REM | 84.6 min | 85.1 min | |
+| VFC | 87.5 ms | 83.3 ms | |
 
-**Conclusion : une mauvaise nuit te coûte 2.5 points de découplage.** Sur les 4 h de vélo de Gérardmer, cet écart se paie directement sur les 21 km. Ton sommeil n'est pas un sujet de confort, c'est un paramètre de performance.
+**Conclusion : une mauvaise nuit te coûte 1.7 points de découplage.** Sur les 4 h de vélo de Gérardmer, cet écart se paie directement sur les 21 km. Ton sommeil n'est pas un sujet de confort, c'est un paramètre de performance.
 
 ---
 
@@ -99,17 +99,17 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 2000 m | 2000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 1 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **35.8** (+5.1 sur 7 j) · ATL 57.5 · TSB -21.7
+**Charge** : CTL **34.9** (+3.6 sur 7 j) · ATL 49.3 · TSB -14.3
 
-Trajectoire : 36 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 35 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
 ## 5. Demain
 
-**2026-08-25** — 20 min à allure course
+**2026-08-26** — 6 x 200 m à 1:58
 
-- running · 60 min · FC 140-150
+- lap_swimming · 60 min
 
 **Vigilance** : VFC sous ta base. Fais la séance mais dans le bas des zones.
 
