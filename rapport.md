@@ -1,6 +1,6 @@
-# Coach — J-11 avant Gérardmer XL
+# Coach — J-10 avant Gérardmer XL
 
-*mardi 25 août 2026* · course le samedi 5 septembre 2026
+*mercredi 26 août 2026* · course le samedi 5 septembre 2026
 
 ---
 
@@ -64,25 +64,25 @@ Tours, signal fin et trace : `seances/2026-08-23_road_biking_24081596020.md`
 |---|---|---|---|
 | Durée | 6.2 h | 7.0 h | 8 h |
 | Profond | 86 min | 75 min | 16-33 % |
-| REM | 33 min (9 %) | 82 min | 21-31 % |
-| Score | 74 | 80.6 | |
+| REM | 33 min (9 %) | 81 min | 21-31 % |
+| Score | 74 | 80.4 | |
 | VFC | 83 ms | 93 ms | base 85-117 |
 | FC repos | - | - | |
-| Readiness | 50 | 44 | |
+| Readiness | 50 | 42 | |
 | Récupération restante | 23 h | | |
 
 **Ce que ton historique démontre**
 
-Sur 53 séances appariées à la nuit précédente, en séparant au readiness médian de 54 :
+Sur 52 séances appariées à la nuit précédente, en séparant au readiness médian de 54 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **2.2 %** | **3.9 %** | +1.7 pt |
-| Sommeil | 7.0 h | 7.3 h | |
-| REM | 84.6 min | 85.1 min | |
-| VFC | 87.5 ms | 83.3 ms | |
+| Découplage moyen | **2.2 %** | **3.7 %** | +1.5 pt |
+| Sommeil | 7.0 h | 7.2 h | |
+| REM | 84.6 min | 84.2 min | |
+| VFC | 87.5 ms | 84.0 ms | |
 
-**Conclusion : une mauvaise nuit te coûte 1.7 points de découplage.** Sur les 4 h de vélo de Gérardmer, cet écart se paie directement sur les 21 km. Ton sommeil n'est pas un sujet de confort, c'est un paramètre de performance.
+**Conclusion : pas d'effet net mesurable pour l'instant.** Tu encaisses bien les nuits moyennes.
 
 ---
 
@@ -99,17 +99,17 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 2000 m | 2000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 1 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **34.9** (+3.6 sur 7 j) · ATL 49.3 · TSB -14.3
+**Charge** : CTL **34.1** (+0.6 sur 7 j) · ATL 42.2 · TSB -8.1
 
-Trajectoire : 35 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 34 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
 ## 5. Demain
 
-**2026-08-26** — 6 x 200 m à 1:58
+**2026-08-27** — 2 x 15 min
 
-- lap_swimming · 60 min
+- indoor_cycling · 60 min · FC 150-158
 
 **Vigilance** : VFC sous ta base. Fais la séance mais dans le bas des zones.
 
