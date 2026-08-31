@@ -63,7 +63,7 @@ Tours, signal fin et trace : `seances/2026-08-29_indoor_cycling_24163021899.md`
 | Score | 96 | 82.0 | |
 | VFC | 108 ms | 94 ms | base 86-116 |
 | FC repos | - | - | |
-| Readiness | 100 | 45 | |
+| Readiness | 100 | 46 | |
 
 **Ce que ton historique démontre**
 
