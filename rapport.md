@@ -1,6 +1,6 @@
-# Coach — J-5 avant Gérardmer XL
+# Coach — J-4 avant Gérardmer XL
 
-*lundi 31 août 2026* · course le samedi 5 septembre 2026
+*mardi 1 septembre 2026* · course le samedi 5 septembre 2026
 
 ---
 
@@ -67,14 +67,14 @@ Tours, signal fin et trace : `seances/2026-08-29_indoor_cycling_24163021899.md`
 
 **Ce que ton historique démontre**
 
-Sur 52 séances appariées à la nuit précédente, en séparant au readiness médian de 54 :
+Sur 50 séances appariées à la nuit précédente, en séparant au readiness médian de 55 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **2.2 %** | **3.7 %** | +1.5 pt |
-| Sommeil | 7.0 h | 7.2 h | |
-| REM | 84.6 min | 84.2 min | |
-| VFC | 87.5 ms | 84.0 ms | |
+| Découplage moyen | **2.6 %** | **2.9 %** | +0.3 pt |
+| Sommeil | 7.1 h | 7.2 h | |
+| REM | 86.6 min | 81.8 min | |
+| VFC | 87.8 ms | 84.8 ms | |
 
 **Conclusion : pas d'effet net mesurable pour l'instant.** Tu encaisses bien les nuits moyennes.
 
@@ -93,7 +93,7 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 2000 m | 2000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 1 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **32.3** (-3.5 sur 7 j) · ATL 26.8 · TSB +5.5
+**Charge** : CTL **31.5** (-3.4 sur 7 j) · ATL 23.0 · TSB +8.6
 
 Trajectoire : 32 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
@@ -101,9 +101,9 @@ Trajectoire : 32 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es da
 
 ## 5. Demain
 
-**2026-09-01** — 5 x 1 min seuil
+**2026-09-02** — 6 x 100 m allure course
 
-- running · 40 min · FC 150-168
+- lap_swimming · 40 min
 
 ✅ **Aucun signal négatif.** Séance comme prévu.
 
