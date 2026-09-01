@@ -59,11 +59,11 @@ Tours, signal fin et trace : `seances/2026-08-29_indoor_cycling_24163021899.md`
 |---|---|---|---|
 | Durée | 8.8 h | 7.0 h | 8 h |
 | Profond | 83 min | 75 min | 16-33 % |
-| REM | 138 min (26 %) | 85 min | 21-31 % |
-| Score | 96 | 82.0 | |
-| VFC | 108 ms | 94 ms | base 86-116 |
+| REM | 138 min (26 %) | 84 min | 21-31 % |
+| Score | 96 | 81.8 | |
+| VFC | 108 ms | 95 ms | base 86-116 |
 | FC repos | - | - | |
-| Readiness | 100 | 46 | |
+| Readiness | 100 | 48 | |
 
 **Ce que ton historique démontre**
 
