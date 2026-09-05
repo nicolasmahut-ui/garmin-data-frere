@@ -6,30 +6,26 @@
 
 ## 1. Ta séance
 
-### 2026-09-02 · lap_swimming · 28 min
+### 2026-09-05 · multi_sport · 407 min
 
-**Prescrit** : 6 x 100 m allure course — 40 min
-
-| | Réalisé | Prescrit | Écart |
-|---|---|---|---|
-| Durée | **28 min** | 40 min | -12 min |
-
-⚠️ **Écart au plan.** Vérifie si c'était volontaire.
+*Séance hors plan.*
 
 **Le détail**
 
 | | Séance | Réf. 10 dernières |
 |---|---|---|
-| Distance | **1.5 km** | 1.7 km |
-| FC moyenne | **133** | 129 |
-| FC max | **174** | 159 |
-| TSS | **55** | 56 |
-| Dérive cardiaque | **8.4 bpm** | 15.0 bpm |
-| Allure | **1:54/100 m** | 1:59/100 m |
+| Distance | **118.3 km** | 76.6 km |
+| Dénivelé | **2278 m** | 814 m |
+| FC max | **182** | 192 |
+| Découplage | **26.4 %** | 5.9 % |
+| Dérive cardiaque | **-6.3 bpm** | 16.4 bpm |
+| Meilleur 1 km | 0:57 | 9:47 |
+| Allure | **3:26/km** | 3:12/km |
+| Negative split | **non** (-29.4 %) | 1/2 fois |
 
-Zones FC : **Z1** 13 % · **Z2** 32 % · **Z3** 49 % · **Z4** 5 %
+**Lecture** — Découplage 26.4 % — départ trop rapide pour la durée. Sur un XL, ce profil mène au mur. Pas de negative split — à corriger sur les sorties longues.
 
-Tours, signal fin et trace : `seances/2026-09-02_lap_swimming_24214186279.md`
+Tours, signal fin et trace : `seances/2026-09-05_multi_sport_24248191311.md`
 
 ---
 
@@ -52,31 +48,31 @@ Tours, signal fin et trace : `seances/2026-09-02_lap_swimming_24214186279.md`
 
 ## 3. Ton sommeil et cette séance
 
-**La nuit qui a précédé** (2026-09-02)
+**La nuit qui a précédé** (2026-09-05)
 
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
-| Durée | 7.5 h | 7.0 h | 8 h |
-| Profond | 107 min | 76 min | 16-33 % |
-| REM | 92 min (21 %) | 84 min | 21-31 % |
-| Score | 90 | 82.3 | |
-| VFC | 92 ms | 96 ms | base 87-115 |
+| Durée | 6.8 h | 7.0 h | 8 h |
+| Profond | 64 min | 76 min | 16-33 % |
+| REM | 62 min (15 %) | 84 min | 21-31 % |
+| Score | 78 | 82.3 | |
+| VFC | 89 ms | 96 ms | base 87-115 |
 | FC repos | - | - | |
-| Readiness | 87 | 58 | |
-| Récupération restante | 18 h | | |
+| Readiness | 1 | 55 | |
+| Récupération restante | 96 h | | |
 
 **Ce que ton historique démontre**
 
-Sur 50 séances appariées à la nuit précédente, en séparant au readiness médian de 55 :
+Sur 51 séances appariées à la nuit précédente, en séparant au readiness médian de 54 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **2.6 %** | **2.9 %** | +0.3 pt |
-| Sommeil | 7.1 h | 7.2 h | |
-| REM | 86.6 min | 81.8 min | |
-| VFC | 87.8 ms | 84.8 ms | |
+| Découplage moyen | **2.2 %** | **4.4 %** | +2.2 pt |
+| Sommeil | 7.0 h | 7.2 h | |
+| REM | 84.6 min | 82.5 min | |
+| VFC | 87.5 ms | 85.2 ms | |
 
-**Conclusion : pas d'effet net mesurable pour l'instant.** Tu encaisses bien les nuits moyennes.
+**Conclusion : une mauvaise nuit te coûte 2.2 points de découplage.** Sur les 4 h de vélo de Gérardmer, cet écart se paie directement sur les 21 km. Ton sommeil n'est pas un sujet de confort, c'est un paramètre de performance.
 
 ---
 
@@ -103,7 +99,7 @@ Trajectoire : 31 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es en
 
 **2026-09-06** — repos ou séance libre très facile.
 
-✅ **Aucun signal négatif.** Séance comme prévu.
+⚠️ **Ajustement** : readiness bas, récupération incomplète. Réduis l'intensité d'un cran et garde la durée, ou décale la séance dure de 24 h.
 
 ---
 
