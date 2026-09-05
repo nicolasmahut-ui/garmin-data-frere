@@ -6,7 +6,7 @@
 
 ## 1. Ta séance
 
-### 2026-09-05 · multi_sport · 407 min
+### 2026-09-05 · road_biking · 229 min
 
 *Séance hors plan.*
 
@@ -14,18 +14,20 @@
 
 | | Séance | Réf. 10 dernières |
 |---|---|---|
-| Distance | **118.3 km** | 76.6 km |
-| Dénivelé | **2278 m** | 814 m |
-| FC max | **182** | 192 |
-| Découplage | **26.4 %** | 5.9 % |
-| Dérive cardiaque | **-6.3 bpm** | 16.4 bpm |
-| Meilleur 1 km | 0:57 | 9:47 |
-| Allure | **3:26/km** | 3:12/km |
-| Negative split | **non** (-29.4 %) | 1/2 fois |
+| Distance | **94.3 km** | 64.7 km |
+| Dénivelé | **1702 m** | 437 m |
+| FC moyenne | **156** | 139 |
+| FC max | **182** | 168 |
+| Cadence | **84** | 85 |
+| TSS | **268** | 93 |
+| Dérive cardiaque | **-8.4 bpm** | 5.5 bpm |
+| Meilleur 1 km | 0:56 | 1:23 |
+| Allure | **2:25/km** | 2:09/km |
+| Météo | 20 °C · 83 % hum. | |
 
-**Lecture** — Découplage 26.4 % — départ trop rapide pour la durée. Sur un XL, ce profil mène au mur. Pas de negative split — à corriger sur les sorties longues.
+Zones FC : **Z1** 0 % · **Z2** 5 % · **Z3** 29 % · **Z4** 61 % · **Z5** 5 %
 
-Tours, signal fin et trace : `seances/2026-09-05_multi_sport_24248191311.md`
+Tours, signal fin et trace : `seances/2026-09-05_road_biking_24248569381.md`
 
 ---
 
@@ -35,14 +37,14 @@ Tours, signal fin et trace : `seances/2026-09-05_multi_sport_24248191311.md`
 |---|---|---|---|---|
 | Natation 1,9 km | **0 h 37** | 0 h 41 | -4 min | 1:56/100 m |
 | T1 | **0 h 05** | 0 h 05 | +0 min |  |
-| Vélo 90 km / 1 200 m | **3 h 32** | 4 h 10 | -38 min | modèle sur 15 sorties |
+| Vélo 90 km / 1 200 m | **3 h 29** | 4 h 10 | -41 min | modèle sur 15 sorties |
 | T2 | **0 h 04** | 0 h 04 | +0 min |  |
 | Course 21,1 km | **2 h 12** | 2 h 25 | -13 min | 6:15/km projeté |
-| **TOTAL** | **6 h 30** | 7 h 25 | **-55 min** | |
+| **TOTAL** | **6 h 27** | 7 h 25 | **-58 min** | |
 
 **Tu es en avance sur la cible.** Elle sera révisée à la hausse.
 
-*Modèle ajusté sur tes 15 dernières sorties extérieures : 1.95 min par km, plus 3.03 min par 100 m de dénivelé. Recalculé à chaque sortie.*
+*Modèle ajusté sur tes 15 dernières sorties extérieures : 1.99 min par km, plus 2.49 min par 100 m de dénivelé. Recalculé à chaque sortie.*
 
 ---
 
@@ -82,16 +84,16 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 
 | Jalon | État | Sur ce bloc | Record absolu |
 |---|---|---|---|
-| Sortie vélo avec 1 200 m de D+ en extérieur | ⬜ | 590 m | 1178 m |
-| Sortie vélo de 3 h 30 ou plus | ⬜ | 3.3 h | 3.4 h |
+| Sortie vélo avec 1 200 m de D+ en extérieur | ✅ | 1702 m | 1702 m |
+| Sortie vélo de 3 h 30 ou plus | ✅ | 3.8 h | 3.8 h |
 | Course de 1 h 45 ou plus | ✅ | 2.0 h | 2.0 h |
 | Brique avec 45 min de course enchaînée | ⬜ | — | 30 min |
 | Natation continue de 1 900 m | ✅ | 2000 m | 2000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 1 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **31.1** (-2.8 sur 7 j) · ATL 21.6 · TSB +9.4
+**Charge** : CTL **37.5** (+3.6 sur 7 j) · ATL 60.0 · TSB -22.5
 
-Trajectoire : 31 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es en retard, il faut charger.
+Trajectoire : 38 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
