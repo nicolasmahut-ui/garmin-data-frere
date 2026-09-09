@@ -1,12 +1,12 @@
-# Bilan Garmin — 08/09/2026
+# Bilan Garmin — 09/09/2026
 
 248 séances du 2024-12-31 au 2026-09-05
 Repères : FCmax 194 · FCrepos 50 · seuil 172 · FTP 200 W · CSS 2:00/100 m
 
 ## Charge
 
-- **CTL 34.8** (forme de fond, +1.9 sur 7 j)
-- ATL 37.8 (fatigue) · TSB -2.9 (fraîcheur)
+- **CTL 34.0** (forme de fond, +0.6 sur 7 j)
+- ATL 32.4 (fatigue) · TSB +1.6 (fraîcheur)
 
 | Semaine | TSS | CTL | TSB |
 |---|---|---|---|
@@ -35,7 +35,7 @@ Repères : FCmax 194 · FCrepos 50 · seuil 172 · FTP 200 W · CSS 2:00/100 m
 | 2026-S34 | 505 | 36.7 | -30.4 |
 | 2026-S35 | 96 | 33.1 | +1.9 |
 | 2026-S36 | 379 | 36.6 | -14.9 |
-| 2026-S37 | 0 | 34.8 | -2.9 |
+| 2026-S37 | 0 | 34.0 | +1.6 |
 
 ## Volumes hebdo
 
@@ -112,7 +112,6 @@ Repères : FCmax 194 · FCrepos 50 · seuil 172 · FTP 200 W · CSS 2:00/100 m
 
 | Date | FC rep | VFC | Sommeil | Score | Readiness | Poids | VO2max |
 |---|---|---|---|---|---|---|---|
-| 2026-08-10 | - | - | - | - | 32 | - | - |
 | 2026-08-11 | - | 115 | 7.5 h | 85 | 50 | - | 53.2 |
 | 2026-08-12 | - | 112 | 7.4 h | 86 | 50 | - | - |
 | 2026-08-13 | - | 86 | 8.2 h | 97 | 16 | - | 53.3 |
@@ -142,19 +141,19 @@ Repères : FCmax 194 · FCrepos 50 · seuil 172 · FTP 200 W · CSS 2:00/100 m
 | 2026-09-06 | - | 51 | 7.0 h | 58 | 1 | - | - |
 | 2026-09-07 | - | 106 | 7.8 h | 85 | 1 | - | - |
 | 2026-09-08 | - | 115 | 7.8 h | 92 | 33 | - | - |
+| 2026-09-09 | - | - | - | - | - | - | - |
 
 ### Tendances 7 j vs 28 j
 
-- VFC : 89.1 vs 95.0 (-5.8)
+- VFC : 88.7 vs 94.3 (-5.6)
 - Sommeil : 7.2 vs 7.0 (+0.2)
-- Readiness : 43.0 vs 52.2 (-9.2)
+- Readiness : 35.7 vs 52.3 (-16.7)
 - Poids : 77.0 kg (+2.0 kg depuis le 2024-12-29)
 
 ## Récupération (14 derniers jours)
 
 | Date | Readiness | Temps récup. | Facteur VFC | Facteur sommeil | ACWR |
 |---|---|---|---|---|---|
-| 2026-08-26 | 75 | 12 h | 100 % | 90 | - |
 | 2026-08-27 | 75 | 2 h | 100 % | 84 | - |
 | 2026-08-28 | 81 | 0 h | 100 % | 84 | - |
 | 2026-08-29 | 100 | 0 h | 100 % | 96 | - |
@@ -205,10 +204,10 @@ Détail nuit par nuit — hypnogramme, FC, VFC 5 min, respiration, SpO2, recharg
 
 ## Scores Garmin
 
-- predi_5k_s : 1316
-- predi_10k_s : 2781
-- predi_semi_s : 6224
-- predi_marathon_s : 13915
+- predi_5k_s : 1318
+- predi_10k_s : 2783
+- predi_semi_s : 6228
+- predi_marathon_s : 13925
 
 ## 15 dernières séances
 
