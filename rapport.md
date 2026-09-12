@@ -6,7 +6,7 @@
 
 ## 1. Ta séance
 
-### 2026-09-09 · lap_swimming · 29 min
+### 2026-09-12 · road_biking · 154 min
 
 *Séance hors plan.*
 
@@ -14,16 +14,20 @@
 
 | | Séance | Réf. 10 dernières |
 |---|---|---|
-| Distance | **1.5 km** | 1.7 km |
-| FC moyenne | **112** | 130 |
-| FC max | **146** | 161 |
-| TSS | **53** | 58 |
-| Dérive cardiaque | **9.4 bpm** | 12.9 bpm |
-| Allure | **1:56/100 m** | 1:59/100 m |
+| Distance | **72.7 km** | 70.2 km |
+| Dénivelé | **504 m** | 593 m |
+| FC moyenne | **149** | 139 |
+| FC max | **178** | 169 |
+| Cadence | **87** | 84 |
+| TSS | **154** | 115 |
+| Dérive cardiaque | **2.5 bpm** | 4.0 bpm |
+| Meilleur 1 km | 1:20 | 1:20 |
+| Allure | **2:07/km** | 2:12/km |
+| Météo | 19 °C · 68 % hum. | |
 
-Zones FC : **Z1** 52 % · **Z2** 40 % · **Z3** 8 %
+Zones FC : **Z1** 2 % · **Z2** 10 % · **Z3** 48 % · **Z4** 36 % · **Z5** 3 %
 
-Tours, signal fin et trace : `seances/2026-09-09_lap_swimming_24300459831.md`
+Tours, signal fin et trace : `seances/2026-09-12_road_biking_24332727100.md`
 
 ---
 
@@ -40,24 +44,23 @@ Tours, signal fin et trace : `seances/2026-09-09_lap_swimming_24300459831.md`
 
 **Tu es en avance sur la cible.** Elle sera révisée à la hausse.
 
-*Modèle ajusté sur tes 15 dernières sorties extérieures : 1.99 min par km, plus 2.49 min par 100 m de dénivelé. Recalculé à chaque sortie.*
+*Modèle ajusté sur tes 15 dernières sorties extérieures : 2.00 min par km, plus 2.44 min par 100 m de dénivelé. Recalculé à chaque sortie.*
 
 ---
 
 ## 3. Ton sommeil et cette séance
 
-**La nuit qui a précédé** (2026-09-09)
+**La nuit qui a précédé** (2026-09-12)
 
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
-| Durée | 7.5 h | 7.1 h | 8 h |
-| Profond | 98 min | 78 min | 16-33 % |
-| REM | 89 min (20 %) | 86 min | 21-31 % |
-| Score | 86 | 82.8 | |
-| VFC | 107 ms | 96 ms | base 88-115 |
+| Durée | 7.9 h | 7.1 h | 8 h |
+| Profond | 99 min | 78 min | 16-33 % |
+| REM | 102 min (22 %) | 86 min | 21-31 % |
+| Score | 93 | 82.8 | |
+| VFC | 95 ms | 96 ms | base 88-114 |
 | FC repos | - | - | |
-| Readiness | 67 | 59 | |
-| Récupération restante | 5 h | | |
+| Readiness | 89 | 59 | |
 
 **Ce que ton historique démontre**
 
@@ -87,9 +90,9 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 2000 m | 2000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 1 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **32.8** (-4.7 sur 7 j) · ATL 25.2 · TSB +7.6
+**Charge** : CTL **36.5** (-1.0 sur 7 j) · ATL 47.1 · TSB -10.6
 
-Trajectoire : 33 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es en retard, il faut charger.
+Trajectoire : 36 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
