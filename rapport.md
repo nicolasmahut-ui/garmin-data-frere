@@ -60,7 +60,8 @@ Tours, signal fin et trace : `seances/2026-09-12_road_biking_24332727100.md`
 | Score | 93 | 82.8 | |
 | VFC | 95 ms | 96 ms | base 88-114 |
 | FC repos | - | - | |
-| Readiness | 89 | 59 | |
+| Readiness | 29 | 57 | |
+| Récupération restante | 55 h | | |
 
 **Ce que ton historique démontre**
 
@@ -100,7 +101,7 @@ Trajectoire : 36 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es da
 
 **2026-09-13** — repos ou séance libre très facile.
 
-✅ **Aucun signal négatif.** Séance comme prévu.
+⚠️ **Ajustement** : readiness bas, récupération incomplète. Réduis l'intensité d'un cran et garde la durée, ou décale la séance dure de 24 h.
 
 ---
 
