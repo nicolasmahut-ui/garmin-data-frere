@@ -1,6 +1,6 @@
-# Coach — J--6 avant Gérardmer XL
+# Coach — J--7 avant Gérardmer XL
 
-*vendredi 11 septembre 2026* · course le samedi 5 septembre 2026
+*samedi 12 septembre 2026* · course le samedi 5 septembre 2026
 
 ---
 
@@ -52,11 +52,11 @@ Tours, signal fin et trace : `seances/2026-09-09_lap_swimming_24300459831.md`
 |---|---|---|---|
 | Durée | 7.5 h | 7.1 h | 8 h |
 | Profond | 98 min | 77 min | 16-33 % |
-| REM | 89 min (20 %) | 84 min | 21-31 % |
-| Score | 86 | 82.0 | |
-| VFC | 107 ms | 97 ms | base 88-115 |
+| REM | 89 min (20 %) | 86 min | 21-31 % |
+| Score | 86 | 82.4 | |
+| VFC | 107 ms | 96 ms | base 88-115 |
 | FC repos | - | - | |
-| Readiness | 67 | 56 | |
+| Readiness | 67 | 58 | |
 | Récupération restante | 5 h | | |
 
 **Ce que ton historique démontre**
@@ -87,15 +87,15 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 2000 m | 2000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 1 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **33.6** (+1.8 sur 7 j) · ATL 29.4 · TSB +4.3
+**Charge** : CTL **32.8** (-4.7 sur 7 j) · ATL 25.2 · TSB +7.6
 
-Trajectoire : 34 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 33 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es en retard, il faut charger.
 
 ---
 
 ## 5. Demain
 
-**2026-09-12** — repos ou séance libre très facile.
+**2026-09-13** — repos ou séance libre très facile.
 
 ✅ **Aucun signal négatif.** Séance comme prévu.
 
