@@ -6,7 +6,7 @@
 
 ## 1. Ta séance
 
-### 2026-09-12 · road_biking · 154 min
+### 2026-09-14 · lap_swimming · 30 min
 
 *Séance hors plan.*
 
@@ -14,20 +14,16 @@
 
 | | Séance | Réf. 10 dernières |
 |---|---|---|
-| Distance | **72.7 km** | 70.2 km |
-| Dénivelé | **504 m** | 593 m |
-| FC moyenne | **149** | 139 |
-| FC max | **178** | 169 |
-| Cadence | **87** | 84 |
-| TSS | **154** | 115 |
-| Dérive cardiaque | **2.5 bpm** | 4.0 bpm |
-| Meilleur 1 km | 1:20 | 1:20 |
-| Allure | **2:07/km** | 2:12/km |
-| Météo | 19 °C · 68 % hum. | |
+| Distance | **1.5 km** | 1.7 km |
+| FC moyenne | **130** | 127 |
+| FC max | **159** | 159 |
+| TSS | **50** | 58 |
+| Dérive cardiaque | **5.2 bpm** | 12.6 bpm |
+| Allure | **1:59/100 m** | 1:57/100 m |
 
-Zones FC : **Z1** 2 % · **Z2** 10 % · **Z3** 48 % · **Z4** 36 % · **Z5** 3 %
+Zones FC : **Z1** 8 % · **Z2** 51 % · **Z3** 39 % · **Z4** 1 %
 
-Tours, signal fin et trace : `seances/2026-09-12_road_biking_24332727100.md`
+Tours, signal fin et trace : `seances/2026-09-14_lap_swimming_24355945700.md`
 
 ---
 
@@ -50,18 +46,18 @@ Tours, signal fin et trace : `seances/2026-09-12_road_biking_24332727100.md`
 
 ## 3. Ton sommeil et cette séance
 
-**La nuit qui a précédé** (2026-09-12)
+**La nuit qui a précédé** (2026-09-14)
 
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
-| Durée | 7.9 h | 7.2 h | 8 h |
-| Profond | 99 min | 78 min | 16-33 % |
-| REM | 102 min (22 %) | 91 min | 21-31 % |
-| Score | 93 | 83.8 | |
-| VFC | 95 ms | 96 ms | base 88-114 |
+| Durée | 6.3 h | 7.2 h | 8 h |
+| Profond | 46 min | 78 min | 16-33 % |
+| REM | 62 min (16 %) | 91 min | 21-31 % |
+| Score | 77 | 83.8 | |
+| VFC | 81 ms | 96 ms | base 86-117 |
 | FC repos | - | - | |
-| Readiness | 29 | 59 | |
-| Récupération restante | 55 h | | |
+| Readiness | 65 | 59 | |
+| Récupération restante | 15 h | | |
 
 **Ce que ton historique démontre**
 
@@ -91,9 +87,9 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 2000 m | 2000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 1 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **34.8** (-0.9 sur 7 j) · ATL 34.6 · TSB +0.1
+**Charge** : CTL **36.0** (+0.3 sur 7 j) · ATL 41.8 · TSB -5.8
 
-Trajectoire : 35 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 36 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
@@ -101,7 +97,7 @@ Trajectoire : 35 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es da
 
 **2026-09-15** — repos ou séance libre très facile.
 
-⚠️ **Ajustement** : readiness bas, récupération incomplète. Réduis l'intensité d'un cran et garde la durée, ou décale la séance dure de 24 h.
+**Vigilance** : VFC sous ta base. Fais la séance mais dans le bas des zones.
 
 ---
 
