@@ -206,10 +206,10 @@ Détail nuit par nuit — hypnogramme, FC, VFC 5 min, respiration, SpO2, recharg
 
 ## Scores Garmin
 
-- predi_5k_s : 1298
-- predi_10k_s : 2755
-- predi_semi_s : 6153
-- predi_marathon_s : 13733
+- predi_5k_s : 1299
+- predi_10k_s : 2756
+- predi_semi_s : 6154
+- predi_marathon_s : 13737
 
 ## 15 dernières séances
 
