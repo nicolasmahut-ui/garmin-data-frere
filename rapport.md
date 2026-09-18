@@ -1,6 +1,6 @@
-# Coach — J--12 avant Gérardmer XL
+# Coach — J--13 avant Gérardmer XL
 
-*jeudi 17 septembre 2026* · course le samedi 5 septembre 2026
+*vendredi 18 septembre 2026* · course le samedi 5 septembre 2026
 
 ---
 
@@ -52,8 +52,8 @@ Tours, signal fin et trace : `seances/2026-09-16_lap_swimming_24387156213.md`
 |---|---|---|---|
 | Durée | 6.2 h | 7.1 h | 8 h |
 | Profond | 61 min | 78 min | 16-33 % |
-| REM | 33 min (9 %) | 85 min | 21-31 % |
-| Score | 72 | 83.1 | |
+| REM | 33 min (9 %) | 84 min | 21-31 % |
+| Score | 72 | 82.9 | |
 | VFC | 92 ms | 95 ms | base 87-117 |
 | FC repos | - | - | |
 | Readiness | 54 | 62 | |
@@ -61,16 +61,16 @@ Tours, signal fin et trace : `seances/2026-09-16_lap_swimming_24387156213.md`
 
 **Ce que ton historique démontre**
 
-Sur 51 séances appariées à la nuit précédente, en séparant au readiness médian de 54 :
+Sur 50 séances appariées à la nuit précédente, en séparant au readiness médian de 55 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **2.1 %** | **4.4 %** | +2.3 pt |
+| Découplage moyen | **2.5 %** | **4.0 %** | +1.5 pt |
 | Sommeil | 7.0 h | 7.2 h | |
-| REM | 83.1 min | 82.5 min | |
-| VFC | 88.5 ms | 85.2 ms | |
+| REM | 85.0 min | 80.8 min | |
+| VFC | 88.9 ms | 85.0 ms | |
 
-**Conclusion : une mauvaise nuit te coûte 2.3 points de découplage.** Sur les 4 h de vélo de Gérardmer, cet écart se paie directement sur les 21 km. Ton sommeil n'est pas un sujet de confort, c'est un paramètre de performance.
+**Conclusion : pas d'effet net mesurable pour l'instant.** Tu encaisses bien les nuits moyennes.
 
 ---
 
@@ -87,15 +87,15 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 2000 m | 2000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 1 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **36.1** (+1.7 sur 7 j) · ATL 39.2 · TSB -3.0
+**Charge** : CTL **35.3** (+1.7 sur 7 j) · ATL 33.6 · TSB +1.7
 
-Trajectoire : 36 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 35 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
 ## 5. Demain
 
-**2026-09-18** — repos ou séance libre très facile.
+**2026-09-19** — repos ou séance libre très facile.
 
 ✅ **Aucun signal négatif.** Séance comme prévu.
 
