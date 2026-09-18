@@ -205,10 +205,10 @@ Détail nuit par nuit — hypnogramme, FC, VFC 5 min, respiration, SpO2, recharg
 
 ## Scores Garmin
 
-- predi_5k_s : 1299
-- predi_10k_s : 2757
-- predi_semi_s : 6157
-- predi_marathon_s : 13745
+- predi_5k_s : 1302
+- predi_10k_s : 2762
+- predi_semi_s : 6169
+- predi_marathon_s : 13786
 
 ## 15 dernières séances
 
@@ -279,4 +279,4 @@ Un fichier par séance, avec tours, signal fin et métriques dérivées.
 - `activites-recent.csv` et `wellness-recent.csv` — 60 jours, allégés
 - `profil.md` — matériel, zones, FTP, records personnels
 
-`wellness.csv` contient 366 colonnes distinctes.
+`wellness.csv` contient 365 colonnes distinctes.
