@@ -6,7 +6,7 @@
 
 ## 1. Ta séance
 
-### 2026-09-16 · lap_swimming · 39 min
+### 2026-09-20 · road_biking · 198 min
 
 *Séance hors plan.*
 
@@ -14,16 +14,20 @@
 
 | | Séance | Réf. 10 dernières |
 |---|---|---|
-| Distance | **2.0 km** | 1.7 km |
-| FC moyenne | **123** | 128 |
-| FC max | **148** | 160 |
-| TSS | **69** | 59 |
-| Dérive cardiaque | **7.8 bpm** | 12.5 bpm |
-| Allure | **1:58/100 m** | 1:56/100 m |
+| Distance | **85.8 km** | 71.5 km |
+| Dénivelé | **671 m** | 604 m |
+| FC moyenne | **135** | 139 |
+| FC max | **180** | 170 |
+| Cadence | **85** | 84 |
+| TSS | **140** | 122 |
+| Dérive cardiaque | **8.7 bpm** | 3.9 bpm |
+| Meilleur 1 km | 1:26 | 1:20 |
+| Allure | **2:18/km** | 2:12/km |
+| Météo | 15 °C · 88 % hum. | |
 
-Zones FC : **Z1** 21 % · **Z2** 63 % · **Z3** 16 %
+Zones FC : **Z1** 9 % · **Z2** 39 % · **Z3** 39 % · **Z4** 12 % · **Z5** 0 %
 
-Tours, signal fin et trace : `seances/2026-09-16_lap_swimming_24387156213.md`
+Tours, signal fin et trace : `seances/2026-09-20_road_biking_24433668042.md`
 
 ---
 
@@ -33,31 +37,31 @@ Tours, signal fin et trace : `seances/2026-09-16_lap_swimming_24387156213.md`
 |---|---|---|---|---|
 | Natation 1,9 km | **0 h 37** | 0 h 41 | -4 min | 1:55/100 m |
 | T1 | **0 h 05** | 0 h 05 | +0 min |  |
-| Vélo 90 km / 1 200 m | **3 h 29** | 4 h 10 | -41 min | modèle sur 15 sorties |
+| Vélo 90 km / 1 200 m | **3 h 30** | 4 h 10 | -40 min | modèle sur 15 sorties |
 | T2 | **0 h 04** | 0 h 04 | +0 min |  |
 | Course 21,1 km | **2 h 10** | 2 h 25 | -15 min | 6:09/km projeté |
-| **TOTAL** | **6 h 25** | 7 h 25 | **-60 min** | |
+| **TOTAL** | **6 h 26** | 7 h 25 | **-59 min** | |
 
 **Tu es en avance sur la cible.** Elle sera révisée à la hausse.
 
-*Modèle ajusté sur tes 15 dernières sorties extérieures : 2.00 min par km, plus 2.44 min par 100 m de dénivelé. Recalculé à chaque sortie.*
+*Modèle ajusté sur tes 15 dernières sorties extérieures : 2.03 min par km, plus 2.27 min par 100 m de dénivelé. Recalculé à chaque sortie.*
 
 ---
 
 ## 3. Ton sommeil et cette séance
 
-**La nuit qui a précédé** (2026-09-16)
+**La nuit qui a précédé** (2026-09-20)
 
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
-| Durée | 6.2 h | 7.2 h | 8 h |
-| Profond | 61 min | 80 min | 16-33 % |
-| REM | 33 min (9 %) | 87 min | 21-31 % |
-| Score | 72 | 83.5 | |
-| VFC | 92 ms | 94 ms | base 87-117 |
+| Durée | 7.5 h | 7.2 h | 8 h |
+| Profond | 116 min | 80 min | 16-33 % |
+| REM | 96 min (21 %) | 87 min | 21-31 % |
+| Score | 88 | 83.5 | |
+| VFC | 81 ms | 94 ms | base 87-118 |
 | FC repos | - | - | |
-| Readiness | 54 | 65 | |
-| Récupération restante | 11 h | | |
+| Readiness | 83 | 65 | |
+| Récupération restante | 0 h | | |
 
 **Ce que ton historique démontre**
 
@@ -87,9 +91,9 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 2000 m | 2000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 1 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **33.6** (-2.0 sur 7 j) · ATL 24.7 · TSB +8.9
+**Charge** : CTL **37.0** (+1.4 sur 7 j) · ATL 44.7 · TSB -7.7
 
-Trajectoire : 34 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es en retard, il faut charger.
+Trajectoire : 37 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
@@ -97,7 +101,7 @@ Trajectoire : 34 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es en
 
 **2026-09-21** — repos ou séance libre très facile.
 
-✅ **Aucun signal négatif.** Séance comme prévu.
+**Vigilance** : VFC sous ta base. Fais la séance mais dans le bas des zones.
 
 ---
 
