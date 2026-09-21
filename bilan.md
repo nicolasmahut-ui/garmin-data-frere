@@ -142,12 +142,12 @@ Repères : FCmax 194 · FCrepos 50 · seuil 172 · FTP 200 W · CSS 2:00/100 m
 | 2026-09-18 | - | - | - | - | 70 | - | - |
 | 2026-09-19 | - | 65 | 7.4 h | 84 | 74 | - | - |
 | 2026-09-20 | - | 81 | 7.5 h | 88 | 83 | - | - |
-| 2026-09-21 | - | - | - | - | 53 | - | - |
+| 2026-09-21 | - | 85 | 6.6 h | 80 | 53 | - | - |
 
 ### Tendances 7 j vs 28 j
 
-- VFC : 85.6 vs 93.7 (-8.1)
-- Sommeil : 6.8 vs 7.2 (-0.4)
+- VFC : 85.5 vs 93.3 (-7.8)
+- Sommeil : 6.7 vs 7.2 (-0.4)
 - Readiness : 65.6 vs 64.6 (+1.0)
 - Poids : 77.0 kg (+2.0 kg depuis le 2024-12-29)
 
@@ -168,7 +168,7 @@ Repères : FCmax 194 · FCrepos 50 · seuil 172 · FTP 200 W · CSS 2:00/100 m
 | 2026-09-18 | 70 | 0 h | 72 % | - | - |
 | 2026-09-19 | 74 | 0 h | 47 % | 84 | - |
 | 2026-09-20 | 83 | 0 h | 58 % | 88 | - |
-| 2026-09-21 | 53 | 23 h | 62 % | - | - |
+| 2026-09-21 | 53 | 16 h | 62 % | 80 | - |
 
 ## Structure du sommeil (30 derniers jours)
 
@@ -200,6 +200,7 @@ Repères : FCmax 194 · FCrepos 50 · seuil 172 · FTP 200 W · CSS 2:00/100 m
 | 2026-09-17 | 6.1 h | 70 min | 252 min | 42 min | 1 min | 77 | 103 |
 | 2026-09-19 | 7.4 h | 97 min | 241 min | 104 min | 4 min | 84 | 65 |
 | 2026-09-20 | 7.5 h | 116 min | 240 min | 96 min | 1 min | 88 | 81 |
+| 2026-09-21 | 6.6 h | 61 min | 251 min | 84 min | - | 80 | 85 |
 
 Détail nuit par nuit — hypnogramme, FC, VFC 5 min, respiration, SpO2, recharge Body Battery — dans le dossier `nuits/`.
 
