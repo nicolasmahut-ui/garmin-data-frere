@@ -1,6 +1,6 @@
-# Coach — J--15 avant Gérardmer XL
+# Coach — J--16 avant Gérardmer XL
 
-*dimanche 20 septembre 2026* · course le samedi 5 septembre 2026
+*lundi 21 septembre 2026* · course le samedi 5 septembre 2026
 
 ---
 
@@ -91,15 +91,15 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 2000 m | 2000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 1 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **37.0** (+1.4 sur 7 j) · ATL 44.7 · TSB -7.7
+**Charge** : CTL **36.1** (-1.0 sur 7 j) · ATL 38.3 · TSB -2.2
 
-Trajectoire : 37 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 36 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
 ## 5. Demain
 
-**2026-09-21** — repos ou séance libre très facile.
+**2026-09-22** — repos ou séance libre très facile.
 
 **Vigilance** : VFC sous ta base. Fais la séance mais dans le bas des zones.
 
