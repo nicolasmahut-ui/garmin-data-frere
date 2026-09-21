@@ -55,10 +55,10 @@ Tours, signal fin et trace : `seances/2026-09-20_road_biking_24433668042.md`
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
 | Durée | 7.5 h | 7.2 h | 8 h |
-| Profond | 116 min | 80 min | 16-33 % |
+| Profond | 116 min | 79 min | 16-33 % |
 | REM | 96 min (21 %) | 87 min | 21-31 % |
-| Score | 88 | 83.5 | |
-| VFC | 81 ms | 94 ms | base 87-118 |
+| Score | 88 | 83.3 | |
+| VFC | 81 ms | 93 ms | base 87-118 |
 | FC repos | - | - | |
 | Readiness | 83 | 65 | |
 | Récupération restante | 0 h | | |
