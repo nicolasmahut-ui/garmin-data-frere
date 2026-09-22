@@ -1,6 +1,6 @@
-# Coach — J--16 avant Gérardmer XL
+# Coach — J--17 avant Gérardmer XL
 
-*lundi 21 septembre 2026* · course le samedi 5 septembre 2026
+*mardi 22 septembre 2026* · course le samedi 5 septembre 2026
 
 ---
 
@@ -55,8 +55,8 @@ Tours, signal fin et trace : `seances/2026-09-20_road_biking_24433668042.md`
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
 | Durée | 7.5 h | 7.2 h | 8 h |
-| Profond | 116 min | 79 min | 16-33 % |
-| REM | 96 min (21 %) | 87 min | 21-31 % |
+| Profond | 116 min | 80 min | 16-33 % |
+| REM | 96 min (21 %) | 86 min | 21-31 % |
 | Score | 88 | 83.3 | |
 | VFC | 81 ms | 93 ms | base 87-118 |
 | FC repos | - | - | |
@@ -65,14 +65,14 @@ Tours, signal fin et trace : `seances/2026-09-20_road_biking_24433668042.md`
 
 **Ce que ton historique démontre**
 
-Sur 50 séances appariées à la nuit précédente, en séparant au readiness médian de 55 :
+Sur 49 séances appariées à la nuit précédente, en séparant au readiness médian de 54 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **2.5 %** | **4.0 %** | +1.5 pt |
-| Sommeil | 7.0 h | 7.2 h | |
-| REM | 85.0 min | 80.8 min | |
-| VFC | 88.9 ms | 85.0 ms | |
+| Découplage moyen | **3.2 %** | **4.6 %** | +1.5 pt |
+| Sommeil | 6.9 h | 7.2 h | |
+| REM | 82.1 min | 82.5 min | |
+| VFC | 89.5 ms | 85.2 ms | |
 
 **Conclusion : pas d'effet net mesurable pour l'instant.** Tu encaisses bien les nuits moyennes.
 
@@ -91,15 +91,15 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 2000 m | 2000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 1 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **36.1** (-1.0 sur 7 j) · ATL 38.3 · TSB -2.2
+**Charge** : CTL **35.2** (-1.1 sur 7 j) · ATL 32.8 · TSB +2.4
 
-Trajectoire : 36 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 35 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
 ## 5. Demain
 
-**2026-09-22** — repos ou séance libre très facile.
+**2026-09-23** — repos ou séance libre très facile.
 
 **Vigilance** : VFC sous ta base. Fais la séance mais dans le bas des zones.
 
